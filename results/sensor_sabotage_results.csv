@@ -1,0 +1,1765 @@
+participant,scenario,severity,model,auroc
+1,Sensor noise,0,Personalized,0.5
+1,Sensor noise,0,Population,0.5
+1,Sensor noise,0,Hybrid,0.5
+1,Sensor noise,5,Personalized,0.49307479224376727
+1,Sensor noise,5,Population,0.4930747922437673
+1,Sensor noise,5,Hybrid,0.48753462603878117
+1,Sensor noise,10,Personalized,0.5013850415512465
+1,Sensor noise,10,Population,0.5096952908587257
+1,Sensor noise,10,Hybrid,0.5124653739612188
+1,Sensor noise,20,Personalized,0.4515235457063712
+1,Sensor noise,20,Population,0.5623268698060941
+1,Sensor noise,20,Hybrid,0.4958448753462603
+1,Sensor noise,30,Personalized,0.4515235457063712
+1,Sensor noise,30,Population,0.6343490304709141
+1,Sensor noise,30,Hybrid,0.5678670360110804
+1,Sensor noise,40,Personalized,0.7479224376731303
+1,Sensor noise,40,Population,0.8365650969529086
+1,Sensor noise,40,Hybrid,0.8448753462603877
+1,Sensor noise,50,Personalized,0.781163434903047
+1,Sensor noise,50,Population,0.8559556786703602
+1,Sensor noise,50,Hybrid,0.8559556786703602
+1,Accelerometer dropout,0,Personalized,0.5
+1,Accelerometer dropout,0,Population,0.5
+1,Accelerometer dropout,0,Hybrid,0.5
+1,Accelerometer dropout,5,Personalized,0.4542936288088642
+1,Accelerometer dropout,5,Population,0.4598337950138504
+1,Accelerometer dropout,5,Hybrid,0.445983379501385
+1,Accelerometer dropout,10,Personalized,0.4653739612188365
+1,Accelerometer dropout,10,Population,0.44321329639889195
+1,Accelerometer dropout,10,Hybrid,0.4404432132963989
+1,Accelerometer dropout,20,Personalized,0.48476454293628807
+1,Accelerometer dropout,20,Population,0.5706371191135734
+1,Accelerometer dropout,20,Hybrid,0.5263157894736842
+1,Accelerometer dropout,30,Personalized,0.5401662049861495
+1,Accelerometer dropout,30,Population,0.6897506925207757
+1,Accelerometer dropout,30,Hybrid,0.6703601108033241
+1,Accelerometer dropout,40,Personalized,0.5706371191135734
+1,Accelerometer dropout,40,Population,0.8171745152354571
+1,Accelerometer dropout,40,Hybrid,0.8227146814404432
+1,Accelerometer dropout,50,Personalized,0.5678670360110804
+1,Accelerometer dropout,50,Population,0.8836565096952909
+1,Accelerometer dropout,50,Hybrid,0.889196675900277
+1,Gyroscope drift,0,Personalized,0.5
+1,Gyroscope drift,0,Population,0.5
+1,Gyroscope drift,0,Hybrid,0.5
+1,Gyroscope drift,5,Personalized,0.4930747922437673
+1,Gyroscope drift,5,Population,0.5013850415512465
+1,Gyroscope drift,5,Hybrid,0.5055401662049861
+1,Gyroscope drift,10,Personalized,0.5096952908587258
+1,Gyroscope drift,10,Population,0.5193905817174516
+1,Gyroscope drift,10,Hybrid,0.5290858725761773
+1,Gyroscope drift,20,Personalized,0.5484764542936287
+1,Gyroscope drift,20,Population,0.53601108033241
+1,Gyroscope drift,20,Hybrid,0.5429362880886427
+1,Gyroscope drift,30,Personalized,0.5955678670360111
+1,Gyroscope drift,30,Population,0.5332409972299169
+1,Gyroscope drift,30,Hybrid,0.5623268698060941
+1,Gyroscope drift,40,Personalized,0.6315789473684211
+1,Gyroscope drift,40,Population,0.554016620498615
+1,Gyroscope drift,40,Hybrid,0.5900277008310248
+1,Gyroscope drift,50,Personalized,0.6869806094182825
+1,Gyroscope drift,50,Population,0.5734072022160666
+1,Gyroscope drift,50,Hybrid,0.6371191135734071
+1,Accelerometer gain error,0,Personalized,0.5
+1,Accelerometer gain error,0,Population,0.5
+1,Accelerometer gain error,0,Hybrid,0.5
+1,Accelerometer gain error,5,Personalized,0.556786703601108
+1,Accelerometer gain error,5,Population,0.5318559556786704
+1,Accelerometer gain error,5,Hybrid,0.5512465373961218
+1,Accelerometer gain error,10,Personalized,0.6675900277008311
+1,Accelerometer gain error,10,Population,0.592797783933518
+1,Accelerometer gain error,10,Hybrid,0.6398891966759003
+1,Accelerometer gain error,20,Personalized,0.7700831024930748
+1,Accelerometer gain error,20,Population,0.7479224376731303
+1,Accelerometer gain error,20,Hybrid,0.8033240997229916
+1,Accelerometer gain error,30,Personalized,0.8808864265927978
+1,Accelerometer gain error,30,Population,0.8670360110803323
+1,Accelerometer gain error,30,Hybrid,0.9113573407202216
+1,Accelerometer gain error,40,Personalized,0.9030470914127424
+1,Accelerometer gain error,40,Population,0.9335180055401663
+1,Accelerometer gain error,40,Hybrid,0.9501385041551247
+1,Accelerometer gain error,50,Personalized,0.9085872576177285
+1,Accelerometer gain error,50,Population,0.9695290858725761
+1,Accelerometer gain error,50,Hybrid,0.9529085872576177
+3,Sensor noise,0,Personalized,0.49999999999999994
+3,Sensor noise,0,Population,0.49999999999999994
+3,Sensor noise,0,Hybrid,0.49999999999999994
+3,Sensor noise,5,Personalized,0.4930555555555555
+3,Sensor noise,5,Population,0.4375
+3,Sensor noise,5,Hybrid,0.4236111111111111
+3,Sensor noise,10,Personalized,0.5347222222222222
+3,Sensor noise,10,Population,0.4583333333333333
+3,Sensor noise,10,Hybrid,0.5069444444444444
+3,Sensor noise,20,Personalized,0.5277777777777778
+3,Sensor noise,20,Population,0.33333333333333337
+3,Sensor noise,20,Hybrid,0.4722222222222222
+3,Sensor noise,30,Personalized,0.6597222222222223
+3,Sensor noise,30,Population,0.29166666666666674
+3,Sensor noise,30,Hybrid,0.5347222222222222
+3,Sensor noise,40,Personalized,0.9027777777777779
+3,Sensor noise,40,Population,0.29861111111111116
+3,Sensor noise,40,Hybrid,0.8402777777777778
+3,Sensor noise,50,Personalized,1.0
+3,Sensor noise,50,Population,0.4652777777777778
+3,Sensor noise,50,Hybrid,1.0
+3,Accelerometer dropout,0,Personalized,0.49999999999999994
+3,Accelerometer dropout,0,Population,0.49999999999999994
+3,Accelerometer dropout,0,Hybrid,0.49999999999999994
+3,Accelerometer dropout,5,Personalized,0.5208333333333334
+3,Accelerometer dropout,5,Population,0.5208333333333334
+3,Accelerometer dropout,5,Hybrid,0.5555555555555556
+3,Accelerometer dropout,10,Personalized,0.5902777777777778
+3,Accelerometer dropout,10,Population,0.5902777777777778
+3,Accelerometer dropout,10,Hybrid,0.6180555555555556
+3,Accelerometer dropout,20,Personalized,0.6875
+3,Accelerometer dropout,20,Population,0.7291666666666667
+3,Accelerometer dropout,20,Hybrid,0.7430555555555556
+3,Accelerometer dropout,30,Personalized,0.7777777777777777
+3,Accelerometer dropout,30,Population,0.8125
+3,Accelerometer dropout,30,Hybrid,0.8611111111111112
+3,Accelerometer dropout,40,Personalized,0.8194444444444444
+3,Accelerometer dropout,40,Population,0.9236111111111112
+3,Accelerometer dropout,40,Hybrid,0.9583333333333334
+3,Accelerometer dropout,50,Personalized,0.8263888888888888
+3,Accelerometer dropout,50,Population,0.9861111111111112
+3,Accelerometer dropout,50,Hybrid,1.0
+3,Gyroscope drift,0,Personalized,0.49999999999999994
+3,Gyroscope drift,0,Population,0.49999999999999994
+3,Gyroscope drift,0,Hybrid,0.49999999999999994
+3,Gyroscope drift,5,Personalized,0.5104166666666667
+3,Gyroscope drift,5,Population,0.5138888888888888
+3,Gyroscope drift,5,Hybrid,0.5208333333333334
+3,Gyroscope drift,10,Personalized,0.5243055555555556
+3,Gyroscope drift,10,Population,0.5104166666666667
+3,Gyroscope drift,10,Hybrid,0.5486111111111112
+3,Gyroscope drift,20,Personalized,0.5625
+3,Gyroscope drift,20,Population,0.513888888888889
+3,Gyroscope drift,20,Hybrid,0.5763888888888888
+3,Gyroscope drift,30,Personalized,0.5625
+3,Gyroscope drift,30,Population,0.5277777777777778
+3,Gyroscope drift,30,Hybrid,0.5972222222222222
+3,Gyroscope drift,40,Personalized,0.576388888888889
+3,Gyroscope drift,40,Population,0.5555555555555556
+3,Gyroscope drift,40,Hybrid,0.6319444444444444
+3,Gyroscope drift,50,Personalized,0.5625
+3,Gyroscope drift,50,Population,0.5625
+3,Gyroscope drift,50,Hybrid,0.6527777777777777
+3,Accelerometer gain error,0,Personalized,0.49999999999999994
+3,Accelerometer gain error,0,Population,0.49999999999999994
+3,Accelerometer gain error,0,Hybrid,0.49999999999999994
+3,Accelerometer gain error,5,Personalized,0.5416666666666667
+3,Accelerometer gain error,5,Population,0.4722222222222222
+3,Accelerometer gain error,5,Hybrid,0.5277777777777778
+3,Accelerometer gain error,10,Personalized,0.5972222222222223
+3,Accelerometer gain error,10,Population,0.5416666666666667
+3,Accelerometer gain error,10,Hybrid,0.625
+3,Accelerometer gain error,20,Personalized,0.6597222222222222
+3,Accelerometer gain error,20,Population,0.6944444444444444
+3,Accelerometer gain error,20,Hybrid,0.7569444444444444
+3,Accelerometer gain error,30,Personalized,0.736111111111111
+3,Accelerometer gain error,30,Population,0.8888888888888888
+3,Accelerometer gain error,30,Hybrid,0.8541666666666666
+3,Accelerometer gain error,40,Personalized,0.7847222222222222
+3,Accelerometer gain error,40,Population,0.9791666666666667
+3,Accelerometer gain error,40,Hybrid,0.9722222222222223
+3,Accelerometer gain error,50,Personalized,0.8194444444444444
+3,Accelerometer gain error,50,Population,1.0
+3,Accelerometer gain error,50,Hybrid,0.9791666666666666
+5,Sensor noise,0,Personalized,0.49999999999999994
+5,Sensor noise,0,Population,0.49999999999999994
+5,Sensor noise,0,Hybrid,0.49999999999999994
+5,Sensor noise,5,Personalized,0.5069444444444444
+5,Sensor noise,5,Population,0.5069444444444444
+5,Sensor noise,5,Hybrid,0.5138888888888888
+5,Sensor noise,10,Personalized,0.576388888888889
+5,Sensor noise,10,Population,0.513888888888889
+5,Sensor noise,10,Hybrid,0.5416666666666666
+5,Sensor noise,20,Personalized,0.5625
+5,Sensor noise,20,Population,0.6041666666666666
+5,Sensor noise,20,Hybrid,0.5833333333333334
+5,Sensor noise,30,Personalized,0.6111111111111112
+5,Sensor noise,30,Population,0.7083333333333334
+5,Sensor noise,30,Hybrid,0.673611111111111
+5,Sensor noise,40,Personalized,0.6875
+5,Sensor noise,40,Population,0.7291666666666667
+5,Sensor noise,40,Hybrid,0.7013888888888888
+5,Sensor noise,50,Personalized,0.8541666666666665
+5,Sensor noise,50,Population,0.8194444444444445
+5,Sensor noise,50,Hybrid,0.8402777777777779
+5,Accelerometer dropout,0,Personalized,0.49999999999999994
+5,Accelerometer dropout,0,Population,0.49999999999999994
+5,Accelerometer dropout,0,Hybrid,0.49999999999999994
+5,Accelerometer dropout,5,Personalized,0.46875
+5,Accelerometer dropout,5,Population,0.375
+5,Accelerometer dropout,5,Hybrid,0.41666666666666663
+5,Accelerometer dropout,10,Personalized,0.4444444444444444
+5,Accelerometer dropout,10,Population,0.33333333333333337
+5,Accelerometer dropout,10,Hybrid,0.3680555555555555
+5,Accelerometer dropout,20,Personalized,0.3055555555555556
+5,Accelerometer dropout,20,Population,0.29861111111111116
+5,Accelerometer dropout,20,Hybrid,0.3055555555555556
+5,Accelerometer dropout,30,Personalized,0.3055555555555556
+5,Accelerometer dropout,30,Population,0.3958333333333333
+5,Accelerometer dropout,30,Hybrid,0.3402777777777778
+5,Accelerometer dropout,40,Personalized,0.3194444444444444
+5,Accelerometer dropout,40,Population,0.5486111111111112
+5,Accelerometer dropout,40,Hybrid,0.4375
+5,Accelerometer dropout,50,Personalized,0.39583333333333337
+5,Accelerometer dropout,50,Population,0.6666666666666666
+5,Accelerometer dropout,50,Hybrid,0.5694444444444444
+5,Gyroscope drift,0,Personalized,0.49999999999999994
+5,Gyroscope drift,0,Population,0.49999999999999994
+5,Gyroscope drift,0,Hybrid,0.49999999999999994
+5,Gyroscope drift,5,Personalized,0.5069444444444444
+5,Gyroscope drift,5,Population,0.49652777777777773
+5,Gyroscope drift,5,Hybrid,0.48958333333333337
+5,Gyroscope drift,10,Personalized,0.46875
+5,Gyroscope drift,10,Population,0.5069444444444444
+5,Gyroscope drift,10,Hybrid,0.47916666666666663
+5,Gyroscope drift,20,Personalized,0.4722222222222222
+5,Gyroscope drift,20,Population,0.5208333333333333
+5,Gyroscope drift,20,Hybrid,0.5069444444444444
+5,Gyroscope drift,30,Personalized,0.5069444444444444
+5,Gyroscope drift,30,Population,0.5208333333333334
+5,Gyroscope drift,30,Hybrid,0.513888888888889
+5,Gyroscope drift,40,Personalized,0.5416666666666667
+5,Gyroscope drift,40,Population,0.5138888888888888
+5,Gyroscope drift,40,Hybrid,0.513888888888889
+5,Gyroscope drift,50,Personalized,0.5347222222222222
+5,Gyroscope drift,50,Population,0.5208333333333333
+5,Gyroscope drift,50,Hybrid,0.5069444444444444
+5,Accelerometer gain error,0,Personalized,0.49999999999999994
+5,Accelerometer gain error,0,Population,0.49999999999999994
+5,Accelerometer gain error,0,Hybrid,0.49999999999999994
+5,Accelerometer gain error,5,Personalized,0.5104166666666666
+5,Accelerometer gain error,5,Population,0.6180555555555556
+5,Accelerometer gain error,5,Hybrid,0.5902777777777778
+5,Accelerometer gain error,10,Personalized,0.5381944444444444
+5,Accelerometer gain error,10,Population,0.6875
+5,Accelerometer gain error,10,Hybrid,0.6666666666666666
+5,Accelerometer gain error,20,Personalized,0.5451388888888888
+5,Accelerometer gain error,20,Population,0.8263888888888888
+5,Accelerometer gain error,20,Hybrid,0.7569444444444444
+5,Accelerometer gain error,30,Personalized,0.5416666666666667
+5,Accelerometer gain error,30,Population,0.888888888888889
+5,Accelerometer gain error,30,Hybrid,0.8055555555555556
+5,Accelerometer gain error,40,Personalized,0.5451388888888888
+5,Accelerometer gain error,40,Population,0.9652777777777778
+5,Accelerometer gain error,40,Hybrid,0.8541666666666667
+5,Accelerometer gain error,50,Personalized,0.5520833333333334
+5,Accelerometer gain error,50,Population,0.9861111111111112
+5,Accelerometer gain error,50,Hybrid,0.9027777777777779
+6,Sensor noise,0,Personalized,0.49999999999999994
+6,Sensor noise,0,Population,0.49999999999999994
+6,Sensor noise,0,Hybrid,0.49999999999999994
+6,Sensor noise,5,Personalized,0.5069444444444444
+6,Sensor noise,5,Population,0.5138888888888888
+6,Sensor noise,5,Hybrid,0.5
+6,Sensor noise,10,Personalized,0.5277777777777778
+6,Sensor noise,10,Population,0.5138888888888888
+6,Sensor noise,10,Hybrid,0.5416666666666666
+6,Sensor noise,20,Personalized,0.6458333333333334
+6,Sensor noise,20,Population,0.6666666666666666
+6,Sensor noise,20,Hybrid,0.7291666666666667
+6,Sensor noise,30,Personalized,0.7777777777777778
+6,Sensor noise,30,Population,0.7430555555555556
+6,Sensor noise,30,Hybrid,0.8194444444444444
+6,Sensor noise,40,Personalized,0.8680555555555556
+6,Sensor noise,40,Population,0.875
+6,Sensor noise,40,Hybrid,0.9166666666666666
+6,Sensor noise,50,Personalized,0.9097222222222222
+6,Sensor noise,50,Population,0.9375
+6,Sensor noise,50,Hybrid,0.9652777777777778
+6,Accelerometer dropout,0,Personalized,0.49999999999999994
+6,Accelerometer dropout,0,Population,0.49999999999999994
+6,Accelerometer dropout,0,Hybrid,0.49999999999999994
+6,Accelerometer dropout,5,Personalized,0.5486111111111112
+6,Accelerometer dropout,5,Population,0.4652777777777778
+6,Accelerometer dropout,5,Hybrid,0.5347222222222222
+6,Accelerometer dropout,10,Personalized,0.6111111111111112
+6,Accelerometer dropout,10,Population,0.48611111111111105
+6,Accelerometer dropout,10,Hybrid,0.5694444444444444
+6,Accelerometer dropout,20,Personalized,0.6944444444444444
+6,Accelerometer dropout,20,Population,0.5763888888888888
+6,Accelerometer dropout,20,Hybrid,0.6527777777777778
+6,Accelerometer dropout,30,Personalized,0.7291666666666667
+6,Accelerometer dropout,30,Population,0.7222222222222222
+6,Accelerometer dropout,30,Hybrid,0.7152777777777778
+6,Accelerometer dropout,40,Personalized,0.7291666666666667
+6,Accelerometer dropout,40,Population,0.8263888888888888
+6,Accelerometer dropout,40,Hybrid,0.8194444444444444
+6,Accelerometer dropout,50,Personalized,0.7361111111111112
+6,Accelerometer dropout,50,Population,0.9027777777777778
+6,Accelerometer dropout,50,Hybrid,0.9027777777777778
+6,Gyroscope drift,0,Personalized,0.49999999999999994
+6,Gyroscope drift,0,Population,0.49999999999999994
+6,Gyroscope drift,0,Hybrid,0.49999999999999994
+6,Gyroscope drift,5,Personalized,0.5034722222222222
+6,Gyroscope drift,5,Population,0.4930555555555555
+6,Gyroscope drift,5,Hybrid,0.513888888888889
+6,Gyroscope drift,10,Personalized,0.5034722222222222
+6,Gyroscope drift,10,Population,0.5034722222222222
+6,Gyroscope drift,10,Hybrid,0.5
+6,Gyroscope drift,20,Personalized,0.5208333333333334
+6,Gyroscope drift,20,Population,0.5277777777777777
+6,Gyroscope drift,20,Hybrid,0.5347222222222222
+6,Gyroscope drift,30,Personalized,0.5416666666666666
+6,Gyroscope drift,30,Population,0.5763888888888888
+6,Gyroscope drift,30,Hybrid,0.5486111111111112
+6,Gyroscope drift,40,Personalized,0.5555555555555555
+6,Gyroscope drift,40,Population,0.5625
+6,Gyroscope drift,40,Hybrid,0.5902777777777778
+6,Gyroscope drift,50,Personalized,0.5902777777777778
+6,Gyroscope drift,50,Population,0.625
+6,Gyroscope drift,50,Hybrid,0.6319444444444445
+6,Accelerometer gain error,0,Personalized,0.49999999999999994
+6,Accelerometer gain error,0,Population,0.49999999999999994
+6,Accelerometer gain error,0,Hybrid,0.49999999999999994
+6,Accelerometer gain error,5,Personalized,0.5138888888888888
+6,Accelerometer gain error,5,Population,0.5694444444444444
+6,Accelerometer gain error,5,Hybrid,0.5555555555555556
+6,Accelerometer gain error,10,Personalized,0.5555555555555556
+6,Accelerometer gain error,10,Population,0.6527777777777778
+6,Accelerometer gain error,10,Hybrid,0.625
+6,Accelerometer gain error,20,Personalized,0.6666666666666666
+6,Accelerometer gain error,20,Population,0.7361111111111112
+6,Accelerometer gain error,20,Hybrid,0.763888888888889
+6,Accelerometer gain error,30,Personalized,0.75
+6,Accelerometer gain error,30,Population,0.8125
+6,Accelerometer gain error,30,Hybrid,0.8611111111111109
+6,Accelerometer gain error,40,Personalized,0.7847222222222223
+6,Accelerometer gain error,40,Population,0.9166666666666667
+6,Accelerometer gain error,40,Hybrid,0.9166666666666667
+6,Accelerometer gain error,50,Personalized,0.8125
+6,Accelerometer gain error,50,Population,0.9652777777777778
+6,Accelerometer gain error,50,Hybrid,0.9583333333333334
+7,Sensor noise,0,Personalized,0.49999999999999994
+7,Sensor noise,0,Population,0.49999999999999994
+7,Sensor noise,0,Hybrid,0.49999999999999994
+7,Sensor noise,5,Personalized,0.513888888888889
+7,Sensor noise,5,Population,0.48611111111111116
+7,Sensor noise,5,Hybrid,0.5
+7,Sensor noise,10,Personalized,0.5208333333333334
+7,Sensor noise,10,Population,0.5694444444444444
+7,Sensor noise,10,Hybrid,0.5347222222222223
+7,Sensor noise,20,Personalized,0.5625
+7,Sensor noise,20,Population,0.6458333333333334
+7,Sensor noise,20,Hybrid,0.6944444444444444
+7,Sensor noise,30,Personalized,0.6875
+7,Sensor noise,30,Population,0.8680555555555555
+7,Sensor noise,30,Hybrid,0.875
+7,Sensor noise,40,Personalized,0.7152777777777778
+7,Sensor noise,40,Population,0.9444444444444445
+7,Sensor noise,40,Hybrid,0.9444444444444445
+7,Sensor noise,50,Personalized,0.9583333333333334
+7,Sensor noise,50,Population,1.0
+7,Sensor noise,50,Hybrid,1.0
+7,Accelerometer dropout,0,Personalized,0.49999999999999994
+7,Accelerometer dropout,0,Population,0.49999999999999994
+7,Accelerometer dropout,0,Hybrid,0.49999999999999994
+7,Accelerometer dropout,5,Personalized,0.3506944444444444
+7,Accelerometer dropout,5,Population,0.45833333333333337
+7,Accelerometer dropout,5,Hybrid,0.375
+7,Accelerometer dropout,10,Personalized,0.24305555555555558
+7,Accelerometer dropout,10,Population,0.5138888888888888
+7,Accelerometer dropout,10,Hybrid,0.3472222222222222
+7,Accelerometer dropout,20,Personalized,0.11805555555555557
+7,Accelerometer dropout,20,Population,0.6111111111111112
+7,Accelerometer dropout,20,Hybrid,0.3055555555555556
+7,Accelerometer dropout,30,Personalized,0.2152777777777778
+7,Accelerometer dropout,30,Population,0.75
+7,Accelerometer dropout,30,Hybrid,0.5277777777777778
+7,Accelerometer dropout,40,Personalized,0.42361111111111116
+7,Accelerometer dropout,40,Population,0.8541666666666666
+7,Accelerometer dropout,40,Hybrid,0.7361111111111112
+7,Accelerometer dropout,50,Personalized,0.5833333333333334
+7,Accelerometer dropout,50,Population,0.9166666666666667
+7,Accelerometer dropout,50,Hybrid,0.9027777777777779
+7,Gyroscope drift,0,Personalized,0.49999999999999994
+7,Gyroscope drift,0,Population,0.49999999999999994
+7,Gyroscope drift,0,Hybrid,0.49999999999999994
+7,Gyroscope drift,5,Personalized,0.48263888888888884
+7,Gyroscope drift,5,Population,0.5069444444444444
+7,Gyroscope drift,5,Hybrid,0.5
+7,Gyroscope drift,10,Personalized,0.5034722222222222
+7,Gyroscope drift,10,Population,0.5104166666666666
+7,Gyroscope drift,10,Hybrid,0.48611111111111116
+7,Gyroscope drift,20,Personalized,0.5208333333333334
+7,Gyroscope drift,20,Population,0.5381944444444444
+7,Gyroscope drift,20,Hybrid,0.5347222222222222
+7,Gyroscope drift,30,Personalized,0.5486111111111112
+7,Gyroscope drift,30,Population,0.5694444444444444
+7,Gyroscope drift,30,Hybrid,0.5416666666666667
+7,Gyroscope drift,40,Personalized,0.5833333333333334
+7,Gyroscope drift,40,Population,0.5833333333333333
+7,Gyroscope drift,40,Hybrid,0.5833333333333334
+7,Gyroscope drift,50,Personalized,0.5902777777777778
+7,Gyroscope drift,50,Population,0.6041666666666666
+7,Gyroscope drift,50,Hybrid,0.6180555555555556
+7,Accelerometer gain error,0,Personalized,0.49999999999999994
+7,Accelerometer gain error,0,Population,0.49999999999999994
+7,Accelerometer gain error,0,Hybrid,0.49999999999999994
+7,Accelerometer gain error,5,Personalized,0.5486111111111112
+7,Accelerometer gain error,5,Population,0.5763888888888888
+7,Accelerometer gain error,5,Hybrid,0.5694444444444444
+7,Accelerometer gain error,10,Personalized,0.5729166666666666
+7,Accelerometer gain error,10,Population,0.6319444444444444
+7,Accelerometer gain error,10,Hybrid,0.6458333333333333
+7,Accelerometer gain error,20,Personalized,0.6111111111111112
+7,Accelerometer gain error,20,Population,0.7708333333333333
+7,Accelerometer gain error,20,Hybrid,0.7777777777777778
+7,Accelerometer gain error,30,Personalized,0.6180555555555556
+7,Accelerometer gain error,30,Population,0.9027777777777779
+7,Accelerometer gain error,30,Hybrid,0.8888888888888888
+7,Accelerometer gain error,40,Personalized,0.625
+7,Accelerometer gain error,40,Population,0.9861111111111112
+7,Accelerometer gain error,40,Hybrid,0.9652777777777778
+7,Accelerometer gain error,50,Personalized,0.6319444444444444
+7,Accelerometer gain error,50,Population,1.0
+7,Accelerometer gain error,50,Hybrid,1.0
+8,Sensor noise,0,Personalized,0.5
+8,Sensor noise,0,Population,0.5
+8,Sensor noise,0,Hybrid,0.5
+8,Sensor noise,5,Personalized,0.58
+8,Sensor noise,5,Population,0.51
+8,Sensor noise,5,Hybrid,0.5599999999999999
+8,Sensor noise,10,Personalized,0.59
+8,Sensor noise,10,Population,0.58
+8,Sensor noise,10,Hybrid,0.61
+8,Sensor noise,20,Personalized,0.6100000000000001
+8,Sensor noise,20,Population,0.65
+8,Sensor noise,20,Hybrid,0.67
+8,Sensor noise,30,Personalized,0.6599999999999999
+8,Sensor noise,30,Population,0.8
+8,Sensor noise,30,Hybrid,0.76
+8,Sensor noise,40,Personalized,0.8200000000000001
+8,Sensor noise,40,Population,0.9500000000000001
+8,Sensor noise,40,Hybrid,0.9299999999999999
+8,Sensor noise,50,Personalized,0.8600000000000001
+8,Sensor noise,50,Population,0.95
+8,Sensor noise,50,Hybrid,0.9400000000000001
+8,Accelerometer dropout,0,Personalized,0.5
+8,Accelerometer dropout,0,Population,0.5
+8,Accelerometer dropout,0,Hybrid,0.5
+8,Accelerometer dropout,5,Personalized,0.39
+8,Accelerometer dropout,5,Population,0.41999999999999993
+8,Accelerometer dropout,5,Hybrid,0.42000000000000004
+8,Accelerometer dropout,10,Personalized,0.24
+8,Accelerometer dropout,10,Population,0.4
+8,Accelerometer dropout,10,Hybrid,0.29
+8,Accelerometer dropout,20,Personalized,0.29
+8,Accelerometer dropout,20,Population,0.35
+8,Accelerometer dropout,20,Hybrid,0.29
+8,Accelerometer dropout,30,Personalized,0.63
+8,Accelerometer dropout,30,Population,0.42
+8,Accelerometer dropout,30,Hybrid,0.51
+8,Accelerometer dropout,40,Personalized,0.75
+8,Accelerometer dropout,40,Population,0.63
+8,Accelerometer dropout,40,Hybrid,0.73
+8,Accelerometer dropout,50,Personalized,0.73
+8,Accelerometer dropout,50,Population,0.81
+8,Accelerometer dropout,50,Hybrid,0.79
+8,Gyroscope drift,0,Personalized,0.5
+8,Gyroscope drift,0,Population,0.5
+8,Gyroscope drift,0,Hybrid,0.5
+8,Gyroscope drift,5,Personalized,0.45999999999999996
+8,Gyroscope drift,5,Population,0.51
+8,Gyroscope drift,5,Hybrid,0.4900000000000001
+8,Gyroscope drift,10,Personalized,0.44999999999999996
+8,Gyroscope drift,10,Population,0.52
+8,Gyroscope drift,10,Hybrid,0.4900000000000001
+8,Gyroscope drift,20,Personalized,0.44499999999999995
+8,Gyroscope drift,20,Population,0.51
+8,Gyroscope drift,20,Hybrid,0.4900000000000001
+8,Gyroscope drift,30,Personalized,0.485
+8,Gyroscope drift,30,Population,0.5399999999999999
+8,Gyroscope drift,30,Hybrid,0.5000000000000001
+8,Gyroscope drift,40,Personalized,0.49
+8,Gyroscope drift,40,Population,0.57
+8,Gyroscope drift,40,Hybrid,0.53
+8,Gyroscope drift,50,Personalized,0.5449999999999999
+8,Gyroscope drift,50,Population,0.5900000000000001
+8,Gyroscope drift,50,Hybrid,0.59
+8,Accelerometer gain error,0,Personalized,0.5
+8,Accelerometer gain error,0,Population,0.5
+8,Accelerometer gain error,0,Hybrid,0.5
+8,Accelerometer gain error,5,Personalized,0.505
+8,Accelerometer gain error,5,Population,0.56
+8,Accelerometer gain error,5,Hybrid,0.5599999999999999
+8,Accelerometer gain error,10,Personalized,0.54
+8,Accelerometer gain error,10,Population,0.62
+8,Accelerometer gain error,10,Hybrid,0.62
+8,Accelerometer gain error,20,Personalized,0.5549999999999999
+8,Accelerometer gain error,20,Population,0.7000000000000001
+8,Accelerometer gain error,20,Hybrid,0.68
+8,Accelerometer gain error,30,Personalized,0.5549999999999999
+8,Accelerometer gain error,30,Population,0.8100000000000002
+8,Accelerometer gain error,30,Hybrid,0.7600000000000001
+8,Accelerometer gain error,40,Personalized,0.5700000000000001
+8,Accelerometer gain error,40,Population,0.8700000000000001
+8,Accelerometer gain error,40,Hybrid,0.81
+8,Accelerometer gain error,50,Personalized,0.5700000000000001
+8,Accelerometer gain error,50,Population,0.89
+8,Accelerometer gain error,50,Hybrid,0.8400000000000001
+11,Sensor noise,0,Personalized,0.49999999999999994
+11,Sensor noise,0,Population,0.49999999999999994
+11,Sensor noise,0,Hybrid,0.49999999999999994
+11,Sensor noise,5,Personalized,0.5
+11,Sensor noise,5,Population,0.5208333333333333
+11,Sensor noise,5,Hybrid,0.5416666666666666
+11,Sensor noise,10,Personalized,0.5972222222222222
+11,Sensor noise,10,Population,0.5347222222222222
+11,Sensor noise,10,Hybrid,0.6111111111111112
+11,Sensor noise,20,Personalized,0.7777777777777778
+11,Sensor noise,20,Population,0.4027777777777778
+11,Sensor noise,20,Hybrid,0.7847222222222222
+11,Sensor noise,30,Personalized,0.8125000000000001
+11,Sensor noise,30,Population,0.29166666666666663
+11,Sensor noise,30,Hybrid,0.7777777777777778
+11,Sensor noise,40,Personalized,0.9583333333333334
+11,Sensor noise,40,Population,0.3402777777777778
+11,Sensor noise,40,Hybrid,0.9166666666666666
+11,Sensor noise,50,Personalized,0.9930555555555555
+11,Sensor noise,50,Population,0.4027777777777778
+11,Sensor noise,50,Hybrid,0.9791666666666667
+11,Accelerometer dropout,0,Personalized,0.49999999999999994
+11,Accelerometer dropout,0,Population,0.49999999999999994
+11,Accelerometer dropout,0,Hybrid,0.49999999999999994
+11,Accelerometer dropout,5,Personalized,0.3923611111111111
+11,Accelerometer dropout,5,Population,0.5625
+11,Accelerometer dropout,5,Hybrid,0.375
+11,Accelerometer dropout,10,Personalized,0.2569444444444444
+11,Accelerometer dropout,10,Population,0.6944444444444444
+11,Accelerometer dropout,10,Hybrid,0.2847222222222222
+11,Accelerometer dropout,20,Personalized,0.2013888888888889
+11,Accelerometer dropout,20,Population,0.8819444444444444
+11,Accelerometer dropout,20,Hybrid,0.5
+11,Accelerometer dropout,30,Personalized,0.38888888888888884
+11,Accelerometer dropout,30,Population,0.9861111111111112
+11,Accelerometer dropout,30,Hybrid,0.8402777777777779
+11,Accelerometer dropout,40,Personalized,0.5069444444444444
+11,Accelerometer dropout,40,Population,1.0
+11,Accelerometer dropout,40,Hybrid,0.9722222222222222
+11,Accelerometer dropout,50,Personalized,0.5138888888888888
+11,Accelerometer dropout,50,Population,1.0
+11,Accelerometer dropout,50,Hybrid,0.9930555555555555
+11,Gyroscope drift,0,Personalized,0.49999999999999994
+11,Gyroscope drift,0,Population,0.49999999999999994
+11,Gyroscope drift,0,Hybrid,0.49999999999999994
+11,Gyroscope drift,5,Personalized,0.5
+11,Gyroscope drift,5,Population,0.5173611111111112
+11,Gyroscope drift,5,Hybrid,0.5138888888888888
+11,Gyroscope drift,10,Personalized,0.4965277777777778
+11,Gyroscope drift,10,Population,0.5277777777777778
+11,Gyroscope drift,10,Hybrid,0.5069444444444444
+11,Gyroscope drift,20,Personalized,0.5208333333333334
+11,Gyroscope drift,20,Population,0.5486111111111112
+11,Gyroscope drift,20,Hybrid,0.513888888888889
+11,Gyroscope drift,30,Personalized,0.5277777777777778
+11,Gyroscope drift,30,Population,0.5416666666666667
+11,Gyroscope drift,30,Hybrid,0.5208333333333334
+11,Gyroscope drift,40,Personalized,0.548611111111111
+11,Gyroscope drift,40,Population,0.5486111111111112
+11,Gyroscope drift,40,Hybrid,0.5625
+11,Gyroscope drift,50,Personalized,0.5555555555555556
+11,Gyroscope drift,50,Population,0.5277777777777779
+11,Gyroscope drift,50,Hybrid,0.5902777777777778
+11,Accelerometer gain error,0,Personalized,0.49999999999999994
+11,Accelerometer gain error,0,Population,0.49999999999999994
+11,Accelerometer gain error,0,Hybrid,0.49999999999999994
+11,Accelerometer gain error,5,Personalized,0.5972222222222222
+11,Accelerometer gain error,5,Population,0.45138888888888884
+11,Accelerometer gain error,5,Hybrid,0.5833333333333334
+11,Accelerometer gain error,10,Personalized,0.6493055555555556
+11,Accelerometer gain error,10,Population,0.45138888888888884
+11,Accelerometer gain error,10,Hybrid,0.638888888888889
+11,Accelerometer gain error,20,Personalized,0.7326388888888888
+11,Accelerometer gain error,20,Population,0.5069444444444444
+11,Accelerometer gain error,20,Hybrid,0.75
+11,Accelerometer gain error,30,Personalized,0.7361111111111112
+11,Accelerometer gain error,30,Population,0.6666666666666666
+11,Accelerometer gain error,30,Hybrid,0.8124999999999999
+11,Accelerometer gain error,40,Personalized,0.7430555555555556
+11,Accelerometer gain error,40,Population,0.8611111111111112
+11,Accelerometer gain error,40,Hybrid,0.8958333333333333
+11,Accelerometer gain error,50,Personalized,0.75
+11,Accelerometer gain error,50,Population,0.9166666666666667
+11,Accelerometer gain error,50,Hybrid,0.9166666666666666
+14,Sensor noise,0,Personalized,0.49999999999999994
+14,Sensor noise,0,Population,0.49999999999999994
+14,Sensor noise,0,Hybrid,0.49999999999999994
+14,Sensor noise,5,Personalized,0.4930555555555556
+14,Sensor noise,5,Population,0.48611111111111116
+14,Sensor noise,5,Hybrid,0.4861111111111111
+14,Sensor noise,10,Personalized,0.5486111111111112
+14,Sensor noise,10,Population,0.5
+14,Sensor noise,10,Hybrid,0.5277777777777778
+14,Sensor noise,20,Personalized,0.6041666666666666
+14,Sensor noise,20,Population,0.5972222222222222
+14,Sensor noise,20,Hybrid,0.5763888888888888
+14,Sensor noise,30,Personalized,0.625
+14,Sensor noise,30,Population,0.75
+14,Sensor noise,30,Hybrid,0.7569444444444444
+14,Sensor noise,40,Personalized,0.8472222222222222
+14,Sensor noise,40,Population,0.8958333333333334
+14,Sensor noise,40,Hybrid,0.9027777777777777
+14,Sensor noise,50,Personalized,0.8611111111111112
+14,Sensor noise,50,Population,0.9791666666666666
+14,Sensor noise,50,Hybrid,1.0
+14,Accelerometer dropout,0,Personalized,0.49999999999999994
+14,Accelerometer dropout,0,Population,0.49999999999999994
+14,Accelerometer dropout,0,Hybrid,0.49999999999999994
+14,Accelerometer dropout,5,Personalized,0.39236111111111116
+14,Accelerometer dropout,5,Population,0.5763888888888888
+14,Accelerometer dropout,5,Hybrid,0.4652777777777778
+14,Accelerometer dropout,10,Personalized,0.3055555555555556
+14,Accelerometer dropout,10,Population,0.6319444444444444
+14,Accelerometer dropout,10,Hybrid,0.5
+14,Accelerometer dropout,20,Personalized,0.3125
+14,Accelerometer dropout,20,Population,0.7361111111111112
+14,Accelerometer dropout,20,Hybrid,0.5833333333333334
+14,Accelerometer dropout,30,Personalized,0.45833333333333337
+14,Accelerometer dropout,30,Population,0.8611111111111112
+14,Accelerometer dropout,30,Hybrid,0.7569444444444445
+14,Accelerometer dropout,40,Personalized,0.5555555555555556
+14,Accelerometer dropout,40,Population,0.9305555555555556
+14,Accelerometer dropout,40,Hybrid,0.8402777777777777
+14,Accelerometer dropout,50,Personalized,0.5416666666666667
+14,Accelerometer dropout,50,Population,0.9652777777777778
+14,Accelerometer dropout,50,Hybrid,0.875
+14,Gyroscope drift,0,Personalized,0.49999999999999994
+14,Gyroscope drift,0,Population,0.49999999999999994
+14,Gyroscope drift,0,Hybrid,0.49999999999999994
+14,Gyroscope drift,5,Personalized,0.47916666666666663
+14,Gyroscope drift,5,Population,0.4930555555555556
+14,Gyroscope drift,5,Hybrid,0.4930555555555556
+14,Gyroscope drift,10,Personalized,0.5
+14,Gyroscope drift,10,Population,0.4756944444444444
+14,Gyroscope drift,10,Hybrid,0.5
+14,Gyroscope drift,20,Personalized,0.48611111111111105
+14,Gyroscope drift,20,Population,0.4791666666666667
+14,Gyroscope drift,20,Hybrid,0.4861111111111111
+14,Gyroscope drift,30,Personalized,0.4930555555555556
+14,Gyroscope drift,30,Population,0.5
+14,Gyroscope drift,30,Hybrid,0.5138888888888888
+14,Gyroscope drift,40,Personalized,0.5069444444444444
+14,Gyroscope drift,40,Population,0.513888888888889
+14,Gyroscope drift,40,Hybrid,0.5347222222222222
+14,Gyroscope drift,50,Personalized,0.5069444444444444
+14,Gyroscope drift,50,Population,0.5277777777777778
+14,Gyroscope drift,50,Hybrid,0.5277777777777778
+14,Accelerometer gain error,0,Personalized,0.49999999999999994
+14,Accelerometer gain error,0,Population,0.49999999999999994
+14,Accelerometer gain error,0,Hybrid,0.49999999999999994
+14,Accelerometer gain error,5,Personalized,0.5868055555555556
+14,Accelerometer gain error,5,Population,0.45833333333333337
+14,Accelerometer gain error,5,Hybrid,0.5347222222222223
+14,Accelerometer gain error,10,Personalized,0.6041666666666666
+14,Accelerometer gain error,10,Population,0.45138888888888895
+14,Accelerometer gain error,10,Hybrid,0.5138888888888888
+14,Accelerometer gain error,20,Personalized,0.6180555555555556
+14,Accelerometer gain error,20,Population,0.5
+14,Accelerometer gain error,20,Hybrid,0.5486111111111112
+14,Accelerometer gain error,30,Personalized,0.6215277777777778
+14,Accelerometer gain error,30,Population,0.625
+14,Accelerometer gain error,30,Hybrid,0.6527777777777778
+14,Accelerometer gain error,40,Personalized,0.6180555555555556
+14,Accelerometer gain error,40,Population,0.763888888888889
+14,Accelerometer gain error,40,Hybrid,0.7291666666666666
+14,Accelerometer gain error,50,Personalized,0.6215277777777778
+14,Accelerometer gain error,50,Population,0.8541666666666667
+14,Accelerometer gain error,50,Hybrid,0.8055555555555556
+15,Sensor noise,0,Personalized,0.49999999999999994
+15,Sensor noise,0,Population,0.49999999999999994
+15,Sensor noise,0,Hybrid,0.49999999999999994
+15,Sensor noise,5,Personalized,0.5041322314049587
+15,Sensor noise,5,Population,0.5454545454545454
+15,Sensor noise,5,Hybrid,0.5206611570247934
+15,Sensor noise,10,Personalized,0.5785123966942148
+15,Sensor noise,10,Population,0.5289256198347108
+15,Sensor noise,10,Hybrid,0.5867768595041323
+15,Sensor noise,20,Personalized,0.6776859504132232
+15,Sensor noise,20,Population,0.5950413223140495
+15,Sensor noise,20,Hybrid,0.6694214876033058
+15,Sensor noise,30,Personalized,0.7933884297520661
+15,Sensor noise,30,Population,0.8595041322314049
+15,Sensor noise,30,Hybrid,0.8595041322314049
+15,Sensor noise,40,Personalized,0.8512396694214877
+15,Sensor noise,40,Population,0.8595041322314049
+15,Sensor noise,40,Hybrid,0.9090909090909091
+15,Sensor noise,50,Personalized,0.9256198347107438
+15,Sensor noise,50,Population,0.9752066115702479
+15,Sensor noise,50,Hybrid,1.0
+15,Accelerometer dropout,0,Personalized,0.49999999999999994
+15,Accelerometer dropout,0,Population,0.49999999999999994
+15,Accelerometer dropout,0,Hybrid,0.49999999999999994
+15,Accelerometer dropout,5,Personalized,0.37603305785123964
+15,Accelerometer dropout,5,Population,0.5702479338842975
+15,Accelerometer dropout,5,Hybrid,0.4049586776859505
+15,Accelerometer dropout,10,Personalized,0.2809917355371901
+15,Accelerometer dropout,10,Population,0.6446280991735538
+15,Accelerometer dropout,10,Hybrid,0.3305785123966942
+15,Accelerometer dropout,20,Personalized,0.371900826446281
+15,Accelerometer dropout,20,Population,0.8512396694214877
+15,Accelerometer dropout,20,Hybrid,0.47933884297520657
+15,Accelerometer dropout,30,Personalized,0.6033057851239669
+15,Accelerometer dropout,30,Population,0.9669421487603306
+15,Accelerometer dropout,30,Hybrid,0.7933884297520661
+15,Accelerometer dropout,40,Personalized,0.6280991735537189
+15,Accelerometer dropout,40,Population,1.0
+15,Accelerometer dropout,40,Hybrid,0.8429752066115702
+15,Accelerometer dropout,50,Personalized,0.6198347107438016
+15,Accelerometer dropout,50,Population,1.0
+15,Accelerometer dropout,50,Hybrid,0.884297520661157
+15,Gyroscope drift,0,Personalized,0.49999999999999994
+15,Gyroscope drift,0,Population,0.49999999999999994
+15,Gyroscope drift,0,Hybrid,0.49999999999999994
+15,Gyroscope drift,5,Personalized,0.4958677685950413
+15,Gyroscope drift,5,Population,0.512396694214876
+15,Gyroscope drift,5,Hybrid,0.5082644628099173
+15,Gyroscope drift,10,Personalized,0.49173553719008267
+15,Gyroscope drift,10,Population,0.5413223140495869
+15,Gyroscope drift,10,Hybrid,0.5206611570247934
+15,Gyroscope drift,20,Personalized,0.5123966942148761
+15,Gyroscope drift,20,Population,0.615702479338843
+15,Gyroscope drift,20,Hybrid,0.5454545454545454
+15,Gyroscope drift,30,Personalized,0.5123966942148761
+15,Gyroscope drift,30,Population,0.6652892561983471
+15,Gyroscope drift,30,Hybrid,0.5537190082644627
+15,Gyroscope drift,40,Personalized,0.5371900826446281
+15,Gyroscope drift,40,Population,0.71900826446281
+15,Gyroscope drift,40,Hybrid,0.5702479338842975
+15,Gyroscope drift,50,Personalized,0.5619834710743801
+15,Gyroscope drift,50,Population,0.7603305785123967
+15,Gyroscope drift,50,Hybrid,0.6363636363636364
+15,Accelerometer gain error,0,Personalized,0.49999999999999994
+15,Accelerometer gain error,0,Population,0.49999999999999994
+15,Accelerometer gain error,0,Hybrid,0.49999999999999994
+15,Accelerometer gain error,5,Personalized,0.5537190082644627
+15,Accelerometer gain error,5,Population,0.5454545454545454
+15,Accelerometer gain error,5,Hybrid,0.578512396694215
+15,Accelerometer gain error,10,Personalized,0.578512396694215
+15,Accelerometer gain error,10,Population,0.6446280991735537
+15,Accelerometer gain error,10,Hybrid,0.6528925619834711
+15,Accelerometer gain error,20,Personalized,0.5826446280991735
+15,Accelerometer gain error,20,Population,0.8760330578512396
+15,Accelerometer gain error,20,Hybrid,0.7272727272727273
+15,Accelerometer gain error,30,Personalized,0.5867768595041322
+15,Accelerometer gain error,30,Population,0.9917355371900827
+15,Accelerometer gain error,30,Hybrid,0.859504132231405
+15,Accelerometer gain error,40,Personalized,0.5950413223140496
+15,Accelerometer gain error,40,Population,1.0
+15,Accelerometer gain error,40,Hybrid,0.9256198347107438
+15,Accelerometer gain error,50,Personalized,0.6033057851239669
+15,Accelerometer gain error,50,Population,1.0
+15,Accelerometer gain error,50,Hybrid,0.9586776859504131
+16,Sensor noise,0,Personalized,0.49999999999999994
+16,Sensor noise,0,Population,0.49999999999999994
+16,Sensor noise,0,Hybrid,0.49999999999999994
+16,Sensor noise,5,Personalized,0.487603305785124
+16,Sensor noise,5,Population,0.4545454545454546
+16,Sensor noise,5,Hybrid,0.4628099173553719
+16,Sensor noise,10,Personalized,0.4297520661157025
+16,Sensor noise,10,Population,0.48760330578512395
+16,Sensor noise,10,Hybrid,0.45454545454545453
+16,Sensor noise,20,Personalized,0.4132231404958677
+16,Sensor noise,20,Population,0.4380165289256198
+16,Sensor noise,20,Hybrid,0.39669421487603307
+16,Sensor noise,30,Personalized,0.5950413223140496
+16,Sensor noise,30,Population,0.3553719008264463
+16,Sensor noise,30,Hybrid,0.371900826446281
+16,Sensor noise,40,Personalized,0.6198347107438017
+16,Sensor noise,40,Population,0.2975206611570248
+16,Sensor noise,40,Hybrid,0.347107438016529
+16,Sensor noise,50,Personalized,0.7355371900826446
+16,Sensor noise,50,Population,0.23140495867768596
+16,Sensor noise,50,Hybrid,0.38016528925619836
+16,Accelerometer dropout,0,Personalized,0.49999999999999994
+16,Accelerometer dropout,0,Population,0.49999999999999994
+16,Accelerometer dropout,0,Hybrid,0.49999999999999994
+16,Accelerometer dropout,5,Personalized,0.38842975206611574
+16,Accelerometer dropout,5,Population,0.5537190082644629
+16,Accelerometer dropout,5,Hybrid,0.45454545454545453
+16,Accelerometer dropout,10,Personalized,0.40495867768595045
+16,Accelerometer dropout,10,Population,0.6363636363636364
+16,Accelerometer dropout,10,Hybrid,0.512396694214876
+16,Accelerometer dropout,20,Personalized,0.6363636363636365
+16,Accelerometer dropout,20,Population,0.7685950413223142
+16,Accelerometer dropout,20,Hybrid,0.7438016528925621
+16,Accelerometer dropout,30,Personalized,0.7851239669421488
+16,Accelerometer dropout,30,Population,0.8677685950413223
+16,Accelerometer dropout,30,Hybrid,0.884297520661157
+16,Accelerometer dropout,40,Personalized,0.8347107438016529
+16,Accelerometer dropout,40,Population,0.9256198347107437
+16,Accelerometer dropout,40,Hybrid,0.9008264462809916
+16,Accelerometer dropout,50,Personalized,0.8264462809917356
+16,Accelerometer dropout,50,Population,0.9421487603305785
+16,Accelerometer dropout,50,Hybrid,0.9090909090909091
+16,Gyroscope drift,0,Personalized,0.49999999999999994
+16,Gyroscope drift,0,Population,0.49999999999999994
+16,Gyroscope drift,0,Hybrid,0.49999999999999994
+16,Gyroscope drift,5,Personalized,0.5082644628099173
+16,Gyroscope drift,5,Population,0.4958677685950412
+16,Gyroscope drift,5,Hybrid,0.5041322314049587
+16,Gyroscope drift,10,Personalized,0.5247933884297521
+16,Gyroscope drift,10,Population,0.5123966942148761
+16,Gyroscope drift,10,Hybrid,0.512396694214876
+16,Gyroscope drift,20,Personalized,0.5206611570247934
+16,Gyroscope drift,20,Population,0.5
+16,Gyroscope drift,20,Hybrid,0.5041322314049587
+16,Gyroscope drift,30,Personalized,0.5371900826446281
+16,Gyroscope drift,30,Population,0.5041322314049587
+16,Gyroscope drift,30,Hybrid,0.5206611570247934
+16,Gyroscope drift,40,Personalized,0.5537190082644627
+16,Gyroscope drift,40,Population,0.48760330578512395
+16,Gyroscope drift,40,Hybrid,0.5371900826446281
+16,Gyroscope drift,50,Personalized,0.5867768595041323
+16,Gyroscope drift,50,Population,0.4958677685950413
+16,Gyroscope drift,50,Hybrid,0.5537190082644629
+16,Accelerometer gain error,0,Personalized,0.49999999999999994
+16,Accelerometer gain error,0,Population,0.49999999999999994
+16,Accelerometer gain error,0,Hybrid,0.49999999999999994
+16,Accelerometer gain error,5,Personalized,0.6198347107438016
+16,Accelerometer gain error,5,Population,0.4462809917355372
+16,Accelerometer gain error,5,Hybrid,0.5867768595041323
+16,Accelerometer gain error,10,Personalized,0.6776859504132232
+16,Accelerometer gain error,10,Population,0.4214876033057851
+16,Accelerometer gain error,10,Hybrid,0.5950413223140496
+16,Accelerometer gain error,20,Personalized,0.7355371900826446
+16,Accelerometer gain error,20,Population,0.48760330578512395
+16,Accelerometer gain error,20,Hybrid,0.6859504132231405
+16,Accelerometer gain error,30,Personalized,0.7355371900826446
+16,Accelerometer gain error,30,Population,0.628099173553719
+16,Accelerometer gain error,30,Hybrid,0.7768595041322314
+16,Accelerometer gain error,40,Personalized,0.743801652892562
+16,Accelerometer gain error,40,Population,0.7851239669421488
+16,Accelerometer gain error,40,Hybrid,0.8099173553719008
+16,Accelerometer gain error,50,Personalized,0.743801652892562
+16,Accelerometer gain error,50,Population,0.9090909090909091
+16,Accelerometer gain error,50,Hybrid,0.8760330578512396
+17,Sensor noise,0,Personalized,0.5
+17,Sensor noise,0,Population,0.5
+17,Sensor noise,0,Hybrid,0.5
+17,Sensor noise,5,Personalized,0.47337278106508873
+17,Sensor noise,5,Population,0.485207100591716
+17,Sensor noise,5,Hybrid,0.4970414201183431
+17,Sensor noise,10,Personalized,0.5088757396449705
+17,Sensor noise,10,Population,0.5325443786982249
+17,Sensor noise,10,Hybrid,0.5325443786982249
+17,Sensor noise,20,Personalized,0.5798816568047337
+17,Sensor noise,20,Population,0.514792899408284
+17,Sensor noise,20,Hybrid,0.5384615384615384
+17,Sensor noise,30,Personalized,0.5680473372781065
+17,Sensor noise,30,Population,0.6804733727810651
+17,Sensor noise,30,Hybrid,0.6568047337278106
+17,Sensor noise,40,Personalized,0.6331360946745562
+17,Sensor noise,40,Population,0.9053254437869822
+17,Sensor noise,40,Hybrid,0.9053254437869822
+17,Sensor noise,50,Personalized,0.7337278106508875
+17,Sensor noise,50,Population,0.9763313609467457
+17,Sensor noise,50,Hybrid,0.9644970414201183
+17,Accelerometer dropout,0,Personalized,0.5
+17,Accelerometer dropout,0,Population,0.5
+17,Accelerometer dropout,0,Hybrid,0.5
+17,Accelerometer dropout,5,Personalized,0.4881656804733728
+17,Accelerometer dropout,5,Population,0.3846153846153846
+17,Accelerometer dropout,5,Hybrid,0.3964497041420118
+17,Accelerometer dropout,10,Personalized,0.4378698224852071
+17,Accelerometer dropout,10,Population,0.3668639053254438
+17,Accelerometer dropout,10,Hybrid,0.3609467455621302
+17,Accelerometer dropout,20,Personalized,0.3254437869822485
+17,Accelerometer dropout,20,Population,0.46153846153846156
+17,Accelerometer dropout,20,Hybrid,0.33727810650887574
+17,Accelerometer dropout,30,Personalized,0.485207100591716
+17,Accelerometer dropout,30,Population,0.7455621301775148
+17,Accelerometer dropout,30,Hybrid,0.7278106508875739
+17,Accelerometer dropout,40,Personalized,0.6153846153846154
+17,Accelerometer dropout,40,Population,0.9467455621301776
+17,Accelerometer dropout,40,Hybrid,0.9585798816568047
+17,Accelerometer dropout,50,Personalized,0.6153846153846154
+17,Accelerometer dropout,50,Population,0.9881656804733728
+17,Accelerometer dropout,50,Hybrid,0.9881656804733728
+17,Gyroscope drift,0,Personalized,0.5
+17,Gyroscope drift,0,Population,0.5
+17,Gyroscope drift,0,Hybrid,0.5
+17,Gyroscope drift,5,Personalized,0.5059171597633135
+17,Gyroscope drift,5,Population,0.5029585798816567
+17,Gyroscope drift,5,Hybrid,0.5059171597633136
+17,Gyroscope drift,10,Personalized,0.4970414201183432
+17,Gyroscope drift,10,Population,0.5
+17,Gyroscope drift,10,Hybrid,0.5029585798816568
+17,Gyroscope drift,20,Personalized,0.5236686390532544
+17,Gyroscope drift,20,Population,0.5059171597633136
+17,Gyroscope drift,20,Hybrid,0.514792899408284
+17,Gyroscope drift,30,Personalized,0.5355029585798816
+17,Gyroscope drift,30,Population,0.5384615384615384
+17,Gyroscope drift,30,Hybrid,0.5621301775147929
+17,Gyroscope drift,40,Personalized,0.5473372781065089
+17,Gyroscope drift,40,Population,0.5917159763313609
+17,Gyroscope drift,40,Hybrid,0.6035502958579881
+17,Gyroscope drift,50,Personalized,0.5680473372781065
+17,Gyroscope drift,50,Population,0.6449704142011834
+17,Gyroscope drift,50,Hybrid,0.6745562130177515
+17,Accelerometer gain error,0,Personalized,0.5
+17,Accelerometer gain error,0,Population,0.5
+17,Accelerometer gain error,0,Hybrid,0.5
+17,Accelerometer gain error,5,Personalized,0.5088757396449703
+17,Accelerometer gain error,5,Population,0.6449704142011834
+17,Accelerometer gain error,5,Hybrid,0.591715976331361
+17,Accelerometer gain error,10,Personalized,0.514792899408284
+17,Accelerometer gain error,10,Population,0.7810650887573964
+17,Accelerometer gain error,10,Hybrid,0.7455621301775148
+17,Accelerometer gain error,20,Personalized,0.5207100591715976
+17,Accelerometer gain error,20,Population,0.9644970414201184
+17,Accelerometer gain error,20,Hybrid,0.9349112426035503
+17,Accelerometer gain error,30,Personalized,0.5384615384615384
+17,Accelerometer gain error,30,Population,0.9940828402366865
+17,Accelerometer gain error,30,Hybrid,0.9940828402366865
+17,Accelerometer gain error,40,Personalized,0.5384615384615384
+17,Accelerometer gain error,40,Population,1.0
+17,Accelerometer gain error,40,Hybrid,1.0
+17,Accelerometer gain error,50,Personalized,0.5384615384615384
+17,Accelerometer gain error,50,Population,1.0
+17,Accelerometer gain error,50,Hybrid,1.0
+19,Sensor noise,0,Personalized,0.49999999999999994
+19,Sensor noise,0,Population,0.49999999999999994
+19,Sensor noise,0,Hybrid,0.49999999999999994
+19,Sensor noise,5,Personalized,0.5661157024793388
+19,Sensor noise,5,Population,0.487603305785124
+19,Sensor noise,5,Hybrid,0.5371900826446281
+19,Sensor noise,10,Personalized,0.5206611570247933
+19,Sensor noise,10,Population,0.5867768595041323
+19,Sensor noise,10,Hybrid,0.5371900826446281
+19,Sensor noise,20,Personalized,0.7107438016528925
+19,Sensor noise,20,Population,0.6942148760330579
+19,Sensor noise,20,Hybrid,0.7024793388429752
+19,Sensor noise,30,Personalized,0.9008264462809917
+19,Sensor noise,30,Population,0.9256198347107438
+19,Sensor noise,30,Hybrid,0.9504132231404958
+19,Sensor noise,40,Personalized,0.9586776859504132
+19,Sensor noise,40,Population,0.9834710743801652
+19,Sensor noise,40,Hybrid,1.0
+19,Sensor noise,50,Personalized,1.0
+19,Sensor noise,50,Population,1.0
+19,Sensor noise,50,Hybrid,1.0
+19,Accelerometer dropout,0,Personalized,0.49999999999999994
+19,Accelerometer dropout,0,Population,0.49999999999999994
+19,Accelerometer dropout,0,Hybrid,0.49999999999999994
+19,Accelerometer dropout,5,Personalized,0.4049586776859504
+19,Accelerometer dropout,5,Population,0.40082644628099173
+19,Accelerometer dropout,5,Hybrid,0.371900826446281
+19,Accelerometer dropout,10,Personalized,0.3181818181818182
+19,Accelerometer dropout,10,Population,0.2851239669421488
+19,Accelerometer dropout,10,Hybrid,0.31818181818181823
+19,Accelerometer dropout,20,Personalized,0.2644628099173554
+19,Accelerometer dropout,20,Population,0.1322314049586777
+19,Accelerometer dropout,20,Hybrid,0.14876033057851237
+19,Accelerometer dropout,30,Personalized,0.45454545454545453
+19,Accelerometer dropout,30,Population,0.033057851239669436
+19,Accelerometer dropout,30,Hybrid,0.1487603305785124
+19,Accelerometer dropout,40,Personalized,0.6115702479338843
+19,Accelerometer dropout,40,Population,0.016528925619834718
+19,Accelerometer dropout,40,Hybrid,0.23140495867768596
+19,Accelerometer dropout,50,Personalized,0.5950413223140496
+19,Accelerometer dropout,50,Population,0.11570247933884298
+19,Accelerometer dropout,50,Hybrid,0.33884297520661155
+19,Gyroscope drift,0,Personalized,0.49999999999999994
+19,Gyroscope drift,0,Population,0.49999999999999994
+19,Gyroscope drift,0,Hybrid,0.49999999999999994
+19,Gyroscope drift,5,Personalized,0.4917355371900826
+19,Gyroscope drift,5,Population,0.4752066115702479
+19,Gyroscope drift,5,Hybrid,0.5123966942148761
+19,Gyroscope drift,10,Personalized,0.49586776859504134
+19,Gyroscope drift,10,Population,0.49586776859504134
+19,Gyroscope drift,10,Hybrid,0.5123966942148761
+19,Gyroscope drift,20,Personalized,0.48347107438016534
+19,Gyroscope drift,20,Population,0.512396694214876
+19,Gyroscope drift,20,Hybrid,0.4958677685950413
+19,Gyroscope drift,30,Personalized,0.5041322314049588
+19,Gyroscope drift,30,Population,0.5206611570247934
+19,Gyroscope drift,30,Hybrid,0.5454545454545454
+19,Gyroscope drift,40,Personalized,0.5206611570247934
+19,Gyroscope drift,40,Population,0.5619834710743801
+19,Gyroscope drift,40,Hybrid,0.5619834710743802
+19,Gyroscope drift,50,Personalized,0.5537190082644627
+19,Gyroscope drift,50,Population,0.6033057851239669
+19,Gyroscope drift,50,Hybrid,0.5702479338842975
+19,Accelerometer gain error,0,Personalized,0.49999999999999994
+19,Accelerometer gain error,0,Population,0.49999999999999994
+19,Accelerometer gain error,0,Hybrid,0.49999999999999994
+19,Accelerometer gain error,5,Personalized,0.6198347107438017
+19,Accelerometer gain error,5,Population,0.6115702479338843
+19,Accelerometer gain error,5,Hybrid,0.5950413223140495
+19,Accelerometer gain error,10,Personalized,0.6942148760330579
+19,Accelerometer gain error,10,Population,0.6694214876033058
+19,Accelerometer gain error,10,Hybrid,0.7107438016528925
+19,Accelerometer gain error,20,Personalized,0.7479338842975207
+19,Accelerometer gain error,20,Population,0.71900826446281
+19,Accelerometer gain error,20,Hybrid,0.7644628099173554
+19,Accelerometer gain error,30,Personalized,0.7520661157024793
+19,Accelerometer gain error,30,Population,0.7438016528925621
+19,Accelerometer gain error,30,Hybrid,0.7768595041322314
+19,Accelerometer gain error,40,Personalized,0.7520661157024793
+19,Accelerometer gain error,40,Population,0.7561983471074379
+19,Accelerometer gain error,40,Hybrid,0.7768595041322314
+19,Accelerometer gain error,50,Personalized,0.7520661157024793
+19,Accelerometer gain error,50,Population,0.7768595041322315
+19,Accelerometer gain error,50,Hybrid,0.7851239669421487
+21,Sensor noise,0,Personalized,0.49999999999999994
+21,Sensor noise,0,Population,0.49999999999999994
+21,Sensor noise,0,Hybrid,0.49999999999999994
+21,Sensor noise,5,Personalized,0.5454545454545455
+21,Sensor noise,5,Population,0.5537190082644629
+21,Sensor noise,5,Hybrid,0.5454545454545454
+21,Sensor noise,10,Personalized,0.5206611570247934
+21,Sensor noise,10,Population,0.5206611570247934
+21,Sensor noise,10,Hybrid,0.5206611570247934
+21,Sensor noise,20,Personalized,0.6363636363636364
+21,Sensor noise,20,Population,0.7024793388429752
+21,Sensor noise,20,Hybrid,0.628099173553719
+21,Sensor noise,30,Personalized,0.71900826446281
+21,Sensor noise,30,Population,0.7603305785123966
+21,Sensor noise,30,Hybrid,0.7272727272727273
+21,Sensor noise,40,Personalized,0.9008264462809917
+21,Sensor noise,40,Population,0.9752066115702479
+21,Sensor noise,40,Hybrid,0.9421487603305785
+21,Sensor noise,50,Personalized,0.9834710743801652
+21,Sensor noise,50,Population,0.9504132231404958
+21,Sensor noise,50,Hybrid,0.9669421487603306
+21,Accelerometer dropout,0,Personalized,0.49999999999999994
+21,Accelerometer dropout,0,Population,0.49999999999999994
+21,Accelerometer dropout,0,Hybrid,0.49999999999999994
+21,Accelerometer dropout,5,Personalized,0.46280991735537186
+21,Accelerometer dropout,5,Population,0.487603305785124
+21,Accelerometer dropout,5,Hybrid,0.4545454545454546
+21,Accelerometer dropout,10,Personalized,0.4380165289256198
+21,Accelerometer dropout,10,Population,0.4462809917355372
+21,Accelerometer dropout,10,Hybrid,0.4380165289256198
+21,Accelerometer dropout,20,Personalized,0.32231404958677684
+21,Accelerometer dropout,20,Population,0.6198347107438016
+21,Accelerometer dropout,20,Hybrid,0.38016528925619836
+21,Accelerometer dropout,30,Personalized,0.36363636363636365
+21,Accelerometer dropout,30,Population,0.9090909090909091
+21,Accelerometer dropout,30,Hybrid,0.6694214876033058
+21,Accelerometer dropout,40,Personalized,0.4214876033057851
+21,Accelerometer dropout,40,Population,0.9917355371900827
+21,Accelerometer dropout,40,Hybrid,0.8512396694214877
+21,Accelerometer dropout,50,Personalized,0.4214876033057851
+21,Accelerometer dropout,50,Population,1.0
+21,Accelerometer dropout,50,Hybrid,0.9338842975206612
+21,Gyroscope drift,0,Personalized,0.49999999999999994
+21,Gyroscope drift,0,Population,0.49999999999999994
+21,Gyroscope drift,0,Hybrid,0.49999999999999994
+21,Gyroscope drift,5,Personalized,0.5041322314049587
+21,Gyroscope drift,5,Population,0.5247933884297521
+21,Gyroscope drift,5,Hybrid,0.5206611570247933
+21,Gyroscope drift,10,Personalized,0.5165289256198347
+21,Gyroscope drift,10,Population,0.5165289256198347
+21,Gyroscope drift,10,Hybrid,0.5123966942148761
+21,Gyroscope drift,20,Personalized,0.512396694214876
+21,Gyroscope drift,20,Population,0.5206611570247934
+21,Gyroscope drift,20,Hybrid,0.5454545454545454
+21,Gyroscope drift,30,Personalized,0.5454545454545454
+21,Gyroscope drift,30,Population,0.5867768595041323
+21,Gyroscope drift,30,Hybrid,0.5619834710743802
+21,Gyroscope drift,40,Personalized,0.5454545454545454
+21,Gyroscope drift,40,Population,0.6611570247933884
+21,Gyroscope drift,40,Hybrid,0.5867768595041322
+21,Gyroscope drift,50,Personalized,0.5619834710743802
+21,Gyroscope drift,50,Population,0.6942148760330579
+21,Gyroscope drift,50,Hybrid,0.5950413223140496
+21,Accelerometer gain error,0,Personalized,0.49999999999999994
+21,Accelerometer gain error,0,Population,0.49999999999999994
+21,Accelerometer gain error,0,Hybrid,0.49999999999999994
+21,Accelerometer gain error,5,Personalized,0.5661157024793388
+21,Accelerometer gain error,5,Population,0.6115702479338844
+21,Accelerometer gain error,5,Hybrid,0.578512396694215
+21,Accelerometer gain error,10,Personalized,0.5826446280991736
+21,Accelerometer gain error,10,Population,0.71900826446281
+21,Accelerometer gain error,10,Hybrid,0.628099173553719
+21,Accelerometer gain error,20,Personalized,0.5991735537190083
+21,Accelerometer gain error,20,Population,0.8347107438016529
+21,Accelerometer gain error,20,Hybrid,0.768595041322314
+21,Accelerometer gain error,30,Personalized,0.640495867768595
+21,Accelerometer gain error,30,Population,0.9338842975206612
+21,Accelerometer gain error,30,Hybrid,0.8677685950413223
+21,Accelerometer gain error,40,Personalized,0.6611570247933884
+21,Accelerometer gain error,40,Population,0.9752066115702479
+21,Accelerometer gain error,40,Hybrid,0.9256198347107438
+21,Accelerometer gain error,50,Personalized,0.6611570247933884
+21,Accelerometer gain error,50,Population,1.0
+21,Accelerometer gain error,50,Hybrid,0.9752066115702479
+22,Sensor noise,0,Personalized,0.5
+22,Sensor noise,0,Population,0.5
+22,Sensor noise,0,Hybrid,0.5
+22,Sensor noise,5,Personalized,0.5
+22,Sensor noise,5,Population,0.53
+22,Sensor noise,5,Hybrid,0.5
+22,Sensor noise,10,Personalized,0.58
+22,Sensor noise,10,Population,0.6
+22,Sensor noise,10,Hybrid,0.59
+22,Sensor noise,20,Personalized,0.64
+22,Sensor noise,20,Population,0.6900000000000001
+22,Sensor noise,20,Hybrid,0.67
+22,Sensor noise,30,Personalized,0.83
+22,Sensor noise,30,Population,0.8
+22,Sensor noise,30,Hybrid,0.8099999999999999
+22,Sensor noise,40,Personalized,0.98
+22,Sensor noise,40,Population,0.9400000000000001
+22,Sensor noise,40,Hybrid,0.9700000000000001
+22,Sensor noise,50,Personalized,1.0
+22,Sensor noise,50,Population,0.99
+22,Sensor noise,50,Hybrid,1.0
+22,Accelerometer dropout,0,Personalized,0.5
+22,Accelerometer dropout,0,Population,0.5
+22,Accelerometer dropout,0,Hybrid,0.5
+22,Accelerometer dropout,5,Personalized,0.4
+22,Accelerometer dropout,5,Population,0.35
+22,Accelerometer dropout,5,Hybrid,0.39
+22,Accelerometer dropout,10,Personalized,0.49
+22,Accelerometer dropout,10,Population,0.24
+22,Accelerometer dropout,10,Hybrid,0.32
+22,Accelerometer dropout,20,Personalized,0.54
+22,Accelerometer dropout,20,Population,0.1
+22,Accelerometer dropout,20,Hybrid,0.22000000000000003
+22,Accelerometer dropout,30,Personalized,0.54
+22,Accelerometer dropout,30,Population,0.08
+22,Accelerometer dropout,30,Hybrid,0.21000000000000002
+22,Accelerometer dropout,40,Personalized,0.53
+22,Accelerometer dropout,40,Population,0.13
+22,Accelerometer dropout,40,Hybrid,0.22000000000000003
+22,Accelerometer dropout,50,Personalized,0.53
+22,Accelerometer dropout,50,Population,0.33
+22,Accelerometer dropout,50,Hybrid,0.41000000000000003
+22,Gyroscope drift,0,Personalized,0.5
+22,Gyroscope drift,0,Population,0.5
+22,Gyroscope drift,0,Hybrid,0.5
+22,Gyroscope drift,5,Personalized,0.48
+22,Gyroscope drift,5,Population,0.52
+22,Gyroscope drift,5,Hybrid,0.51
+22,Gyroscope drift,10,Personalized,0.5
+22,Gyroscope drift,10,Population,0.5249999999999999
+22,Gyroscope drift,10,Hybrid,0.51
+22,Gyroscope drift,20,Personalized,0.515
+22,Gyroscope drift,20,Population,0.55
+22,Gyroscope drift,20,Hybrid,0.53
+22,Gyroscope drift,30,Personalized,0.53
+22,Gyroscope drift,30,Population,0.5599999999999999
+22,Gyroscope drift,30,Hybrid,0.54
+22,Gyroscope drift,40,Personalized,0.54
+22,Gyroscope drift,40,Population,0.5700000000000001
+22,Gyroscope drift,40,Hybrid,0.5599999999999999
+22,Gyroscope drift,50,Personalized,0.58
+22,Gyroscope drift,50,Population,0.62
+22,Gyroscope drift,50,Hybrid,0.61
+22,Accelerometer gain error,0,Personalized,0.5
+22,Accelerometer gain error,0,Population,0.5
+22,Accelerometer gain error,0,Hybrid,0.5
+22,Accelerometer gain error,5,Personalized,0.7000000000000001
+22,Accelerometer gain error,5,Population,0.6699999999999999
+22,Accelerometer gain error,5,Hybrid,0.6900000000000001
+22,Accelerometer gain error,10,Personalized,0.8
+22,Accelerometer gain error,10,Population,0.77
+22,Accelerometer gain error,10,Hybrid,0.78
+22,Accelerometer gain error,20,Personalized,0.8500000000000001
+22,Accelerometer gain error,20,Population,0.79
+22,Accelerometer gain error,20,Hybrid,0.81
+22,Accelerometer gain error,30,Personalized,0.8500000000000001
+22,Accelerometer gain error,30,Population,0.8400000000000001
+22,Accelerometer gain error,30,Hybrid,0.86
+22,Accelerometer gain error,40,Personalized,0.8500000000000001
+22,Accelerometer gain error,40,Population,0.8600000000000001
+22,Accelerometer gain error,40,Hybrid,0.87
+22,Accelerometer gain error,50,Personalized,0.8500000000000001
+22,Accelerometer gain error,50,Population,0.8999999999999999
+22,Accelerometer gain error,50,Hybrid,0.88
+23,Sensor noise,0,Personalized,0.49999999999999994
+23,Sensor noise,0,Population,0.49999999999999994
+23,Sensor noise,0,Hybrid,0.49999999999999994
+23,Sensor noise,5,Personalized,0.5069444444444444
+23,Sensor noise,5,Population,0.5208333333333334
+23,Sensor noise,5,Hybrid,0.5347222222222222
+23,Sensor noise,10,Personalized,0.5
+23,Sensor noise,10,Population,0.5347222222222222
+23,Sensor noise,10,Hybrid,0.5277777777777778
+23,Sensor noise,20,Personalized,0.5208333333333334
+23,Sensor noise,20,Population,0.6041666666666666
+23,Sensor noise,20,Hybrid,0.6041666666666666
+23,Sensor noise,30,Personalized,0.5972222222222222
+23,Sensor noise,30,Population,0.6527777777777778
+23,Sensor noise,30,Hybrid,0.6805555555555556
+23,Sensor noise,40,Personalized,0.6319444444444444
+23,Sensor noise,40,Population,0.6597222222222222
+23,Sensor noise,40,Hybrid,0.6527777777777778
+23,Sensor noise,50,Personalized,0.701388888888889
+23,Sensor noise,50,Population,0.8680555555555556
+23,Sensor noise,50,Hybrid,0.8402777777777778
+23,Accelerometer dropout,0,Personalized,0.49999999999999994
+23,Accelerometer dropout,0,Population,0.49999999999999994
+23,Accelerometer dropout,0,Hybrid,0.49999999999999994
+23,Accelerometer dropout,5,Personalized,0.48958333333333337
+23,Accelerometer dropout,5,Population,0.5277777777777778
+23,Accelerometer dropout,5,Hybrid,0.5486111111111112
+23,Accelerometer dropout,10,Personalized,0.5277777777777777
+23,Accelerometer dropout,10,Population,0.5277777777777778
+23,Accelerometer dropout,10,Hybrid,0.5902777777777778
+23,Accelerometer dropout,20,Personalized,0.5972222222222222
+23,Accelerometer dropout,20,Population,0.6111111111111112
+23,Accelerometer dropout,20,Hybrid,0.6666666666666667
+23,Accelerometer dropout,30,Personalized,0.6354166666666667
+23,Accelerometer dropout,30,Population,0.6736111111111112
+23,Accelerometer dropout,30,Hybrid,0.6944444444444444
+23,Accelerometer dropout,40,Personalized,0.6354166666666667
+23,Accelerometer dropout,40,Population,0.7222222222222223
+23,Accelerometer dropout,40,Hybrid,0.7222222222222223
+23,Accelerometer dropout,50,Personalized,0.6423611111111112
+23,Accelerometer dropout,50,Population,0.7708333333333333
+23,Accelerometer dropout,50,Hybrid,0.7569444444444444
+23,Gyroscope drift,0,Personalized,0.49999999999999994
+23,Gyroscope drift,0,Population,0.49999999999999994
+23,Gyroscope drift,0,Hybrid,0.49999999999999994
+23,Gyroscope drift,5,Personalized,0.5
+23,Gyroscope drift,5,Population,0.5034722222222222
+23,Gyroscope drift,5,Hybrid,0.5
+23,Gyroscope drift,10,Personalized,0.4930555555555556
+23,Gyroscope drift,10,Population,0.5208333333333334
+23,Gyroscope drift,10,Hybrid,0.5069444444444444
+23,Gyroscope drift,20,Personalized,0.49305555555555547
+23,Gyroscope drift,20,Population,0.53125
+23,Gyroscope drift,20,Hybrid,0.48611111111111105
+23,Gyroscope drift,30,Personalized,0.48611111111111116
+23,Gyroscope drift,30,Population,0.5381944444444444
+23,Gyroscope drift,30,Hybrid,0.5069444444444444
+23,Gyroscope drift,40,Personalized,0.5138888888888888
+23,Gyroscope drift,40,Population,0.5416666666666667
+23,Gyroscope drift,40,Hybrid,0.5416666666666666
+23,Gyroscope drift,50,Personalized,0.5347222222222223
+23,Gyroscope drift,50,Population,0.5555555555555556
+23,Gyroscope drift,50,Hybrid,0.5555555555555556
+23,Accelerometer gain error,0,Personalized,0.49999999999999994
+23,Accelerometer gain error,0,Population,0.49999999999999994
+23,Accelerometer gain error,0,Hybrid,0.49999999999999994
+23,Accelerometer gain error,5,Personalized,0.5243055555555556
+23,Accelerometer gain error,5,Population,0.4791666666666667
+23,Accelerometer gain error,5,Hybrid,0.5138888888888888
+23,Accelerometer gain error,10,Personalized,0.48958333333333337
+23,Accelerometer gain error,10,Population,0.5
+23,Accelerometer gain error,10,Hybrid,0.4861111111111111
+23,Accelerometer gain error,20,Personalized,0.4375
+23,Accelerometer gain error,20,Population,0.513888888888889
+23,Accelerometer gain error,20,Hybrid,0.5
+23,Accelerometer gain error,30,Personalized,0.5763888888888888
+23,Accelerometer gain error,30,Population,0.5625
+23,Accelerometer gain error,30,Hybrid,0.6180555555555556
+23,Accelerometer gain error,40,Personalized,0.6527777777777778
+23,Accelerometer gain error,40,Population,0.6666666666666667
+23,Accelerometer gain error,40,Hybrid,0.7083333333333334
+23,Accelerometer gain error,50,Personalized,0.6666666666666666
+23,Accelerometer gain error,50,Population,0.7569444444444444
+23,Accelerometer gain error,50,Hybrid,0.7847222222222222
+25,Sensor noise,0,Personalized,0.5
+25,Sensor noise,0,Population,0.5
+25,Sensor noise,0,Hybrid,0.5
+25,Sensor noise,5,Personalized,0.5066666666666666
+25,Sensor noise,5,Population,0.49333333333333335
+25,Sensor noise,5,Hybrid,0.5022222222222222
+25,Sensor noise,10,Personalized,0.5511111111111111
+25,Sensor noise,10,Population,0.48444444444444446
+25,Sensor noise,10,Hybrid,0.5288888888888889
+25,Sensor noise,20,Personalized,0.6622222222222222
+25,Sensor noise,20,Population,0.43999999999999995
+25,Sensor noise,20,Hybrid,0.5822222222222222
+25,Sensor noise,30,Personalized,0.7644444444444445
+25,Sensor noise,30,Population,0.42222222222222217
+25,Sensor noise,30,Hybrid,0.5644444444444444
+25,Sensor noise,40,Personalized,0.9466666666666667
+25,Sensor noise,40,Population,0.3466666666666667
+25,Sensor noise,40,Hybrid,0.6355555555555555
+25,Sensor noise,50,Personalized,0.9688888888888889
+25,Sensor noise,50,Population,0.2888888888888889
+25,Sensor noise,50,Hybrid,0.6755555555555556
+25,Accelerometer dropout,0,Personalized,0.5
+25,Accelerometer dropout,0,Population,0.5
+25,Accelerometer dropout,0,Hybrid,0.5
+25,Accelerometer dropout,5,Personalized,0.41333333333333333
+25,Accelerometer dropout,5,Population,0.58
+25,Accelerometer dropout,5,Hybrid,0.5422222222222222
+25,Accelerometer dropout,10,Personalized,0.3822222222222222
+25,Accelerometer dropout,10,Population,0.5933333333333334
+25,Accelerometer dropout,10,Hybrid,0.5333333333333333
+25,Accelerometer dropout,20,Personalized,0.4488888888888889
+25,Accelerometer dropout,20,Population,0.6222222222222222
+25,Accelerometer dropout,20,Hybrid,0.6
+25,Accelerometer dropout,30,Personalized,0.5555555555555556
+25,Accelerometer dropout,30,Population,0.64
+25,Accelerometer dropout,30,Hybrid,0.6711111111111111
+25,Accelerometer dropout,40,Personalized,0.5955555555555556
+25,Accelerometer dropout,40,Population,0.6311111111111111
+25,Accelerometer dropout,40,Hybrid,0.6799999999999999
+25,Accelerometer dropout,50,Personalized,0.5955555555555556
+25,Accelerometer dropout,50,Population,0.6266666666666667
+25,Accelerometer dropout,50,Hybrid,0.6755555555555556
+25,Gyroscope drift,0,Personalized,0.5
+25,Gyroscope drift,0,Population,0.5
+25,Gyroscope drift,0,Hybrid,0.5
+25,Gyroscope drift,5,Personalized,0.5088888888888888
+25,Gyroscope drift,5,Population,0.49333333333333335
+25,Gyroscope drift,5,Hybrid,0.4888888888888888
+25,Gyroscope drift,10,Personalized,0.5022222222222221
+25,Gyroscope drift,10,Population,0.4866666666666667
+25,Gyroscope drift,10,Hybrid,0.48444444444444446
+25,Gyroscope drift,20,Personalized,0.5066666666666666
+25,Gyroscope drift,20,Population,0.48444444444444446
+25,Gyroscope drift,20,Hybrid,0.48444444444444446
+25,Gyroscope drift,30,Personalized,0.5422222222222222
+25,Gyroscope drift,30,Population,0.5155555555555555
+25,Gyroscope drift,30,Hybrid,0.52
+25,Gyroscope drift,40,Personalized,0.528888888888889
+25,Gyroscope drift,40,Population,0.5377777777777778
+25,Gyroscope drift,40,Hybrid,0.5377777777777778
+25,Gyroscope drift,50,Personalized,0.5555555555555556
+25,Gyroscope drift,50,Population,0.5466666666666666
+25,Gyroscope drift,50,Hybrid,0.5466666666666666
+25,Accelerometer gain error,0,Personalized,0.5
+25,Accelerometer gain error,0,Population,0.5
+25,Accelerometer gain error,0,Hybrid,0.5
+25,Accelerometer gain error,5,Personalized,0.6266666666666667
+25,Accelerometer gain error,5,Population,0.4244444444444444
+25,Accelerometer gain error,5,Hybrid,0.5066666666666666
+25,Accelerometer gain error,10,Personalized,0.6977777777777777
+25,Accelerometer gain error,10,Population,0.39999999999999997
+25,Accelerometer gain error,10,Hybrid,0.47555555555555556
+25,Accelerometer gain error,20,Personalized,0.7733333333333333
+25,Accelerometer gain error,20,Population,0.28888888888888886
+25,Accelerometer gain error,20,Hybrid,0.38222222222222224
+25,Accelerometer gain error,30,Personalized,0.8311111111111111
+25,Accelerometer gain error,30,Population,0.2177777777777778
+25,Accelerometer gain error,30,Hybrid,0.33333333333333337
+25,Accelerometer gain error,40,Personalized,0.8444444444444446
+25,Accelerometer gain error,40,Population,0.21777777777777776
+25,Accelerometer gain error,40,Hybrid,0.30666666666666664
+25,Accelerometer gain error,50,Personalized,0.8444444444444446
+25,Accelerometer gain error,50,Population,0.21333333333333332
+25,Accelerometer gain error,50,Hybrid,0.3022222222222222
+26,Sensor noise,0,Personalized,0.49999999999999994
+26,Sensor noise,0,Population,0.49999999999999994
+26,Sensor noise,0,Hybrid,0.49999999999999994
+26,Sensor noise,5,Personalized,0.5555555555555556
+26,Sensor noise,5,Population,0.47916666666666674
+26,Sensor noise,5,Hybrid,0.4930555555555556
+26,Sensor noise,10,Personalized,0.5625
+26,Sensor noise,10,Population,0.5
+26,Sensor noise,10,Hybrid,0.5486111111111112
+26,Sensor noise,20,Personalized,0.6597222222222222
+26,Sensor noise,20,Population,0.5694444444444444
+26,Sensor noise,20,Hybrid,0.638888888888889
+26,Sensor noise,30,Personalized,0.8472222222222222
+26,Sensor noise,30,Population,0.5625
+26,Sensor noise,30,Hybrid,0.7986111111111112
+26,Sensor noise,40,Personalized,0.9722222222222223
+26,Sensor noise,40,Population,0.8125
+26,Sensor noise,40,Hybrid,0.9513888888888888
+26,Sensor noise,50,Personalized,1.0
+26,Sensor noise,50,Population,0.8819444444444445
+26,Sensor noise,50,Hybrid,0.986111111111111
+26,Accelerometer dropout,0,Personalized,0.49999999999999994
+26,Accelerometer dropout,0,Population,0.49999999999999994
+26,Accelerometer dropout,0,Hybrid,0.49999999999999994
+26,Accelerometer dropout,5,Personalized,0.5972222222222223
+26,Accelerometer dropout,5,Population,0.5486111111111112
+26,Accelerometer dropout,5,Hybrid,0.6180555555555556
+26,Accelerometer dropout,10,Personalized,0.6458333333333334
+26,Accelerometer dropout,10,Population,0.6805555555555556
+26,Accelerometer dropout,10,Hybrid,0.75
+26,Accelerometer dropout,20,Personalized,0.7361111111111112
+26,Accelerometer dropout,20,Population,0.8819444444444444
+26,Accelerometer dropout,20,Hybrid,0.8611111111111112
+26,Accelerometer dropout,30,Personalized,0.7569444444444444
+26,Accelerometer dropout,30,Population,0.9930555555555555
+26,Accelerometer dropout,30,Hybrid,0.9722222222222222
+26,Accelerometer dropout,40,Personalized,0.7777777777777778
+26,Accelerometer dropout,40,Population,1.0
+26,Accelerometer dropout,40,Hybrid,1.0
+26,Accelerometer dropout,50,Personalized,0.7638888888888888
+26,Accelerometer dropout,50,Population,1.0
+26,Accelerometer dropout,50,Hybrid,1.0
+26,Gyroscope drift,0,Personalized,0.49999999999999994
+26,Gyroscope drift,0,Population,0.49999999999999994
+26,Gyroscope drift,0,Hybrid,0.49999999999999994
+26,Gyroscope drift,5,Personalized,0.5277777777777778
+26,Gyroscope drift,5,Population,0.47916666666666674
+26,Gyroscope drift,5,Hybrid,0.5104166666666667
+26,Gyroscope drift,10,Personalized,0.53125
+26,Gyroscope drift,10,Population,0.4861111111111111
+26,Gyroscope drift,10,Hybrid,0.5277777777777778
+26,Gyroscope drift,20,Personalized,0.5972222222222223
+26,Gyroscope drift,20,Population,0.5138888888888888
+26,Gyroscope drift,20,Hybrid,0.6041666666666666
+26,Gyroscope drift,30,Personalized,0.638888888888889
+26,Gyroscope drift,30,Population,0.5277777777777778
+26,Gyroscope drift,30,Hybrid,0.6458333333333333
+26,Gyroscope drift,40,Personalized,0.6527777777777778
+26,Gyroscope drift,40,Population,0.5694444444444444
+26,Gyroscope drift,40,Hybrid,0.6875
+26,Gyroscope drift,50,Personalized,0.6805555555555556
+26,Gyroscope drift,50,Population,0.638888888888889
+26,Gyroscope drift,50,Hybrid,0.7847222222222222
+26,Accelerometer gain error,0,Personalized,0.49999999999999994
+26,Accelerometer gain error,0,Population,0.49999999999999994
+26,Accelerometer gain error,0,Hybrid,0.49999999999999994
+26,Accelerometer gain error,5,Personalized,0.4097222222222222
+26,Accelerometer gain error,5,Population,0.47916666666666663
+26,Accelerometer gain error,5,Hybrid,0.4027777777777778
+26,Accelerometer gain error,10,Personalized,0.4375
+26,Accelerometer gain error,10,Population,0.5763888888888888
+26,Accelerometer gain error,10,Hybrid,0.48611111111111116
+26,Accelerometer gain error,20,Personalized,0.5208333333333334
+26,Accelerometer gain error,20,Population,0.8611111111111112
+26,Accelerometer gain error,20,Hybrid,0.6875
+26,Accelerometer gain error,30,Personalized,0.6597222222222222
+26,Accelerometer gain error,30,Population,0.986111111111111
+26,Accelerometer gain error,30,Hybrid,0.8888888888888888
+26,Accelerometer gain error,40,Personalized,0.8333333333333334
+26,Accelerometer gain error,40,Population,1.0
+26,Accelerometer gain error,40,Hybrid,0.986111111111111
+26,Accelerometer gain error,50,Personalized,0.8958333333333333
+26,Accelerometer gain error,50,Population,1.0
+26,Accelerometer gain error,50,Hybrid,1.0
+27,Sensor noise,0,Personalized,0.49999999999999994
+27,Sensor noise,0,Population,0.49999999999999994
+27,Sensor noise,0,Hybrid,0.49999999999999994
+27,Sensor noise,5,Personalized,0.513888888888889
+27,Sensor noise,5,Population,0.4930555555555556
+27,Sensor noise,5,Hybrid,0.5277777777777778
+27,Sensor noise,10,Personalized,0.5138888888888888
+27,Sensor noise,10,Population,0.4513888888888889
+27,Sensor noise,10,Hybrid,0.5138888888888888
+27,Sensor noise,20,Personalized,0.5347222222222222
+27,Sensor noise,20,Population,0.47916666666666674
+27,Sensor noise,20,Hybrid,0.5069444444444445
+27,Sensor noise,30,Personalized,0.5625
+27,Sensor noise,30,Population,0.3402777777777778
+27,Sensor noise,30,Hybrid,0.4305555555555555
+27,Sensor noise,40,Personalized,0.6597222222222222
+27,Sensor noise,40,Population,0.22916666666666666
+27,Sensor noise,40,Hybrid,0.5555555555555556
+27,Sensor noise,50,Personalized,0.9513888888888888
+27,Sensor noise,50,Population,0.5069444444444444
+27,Sensor noise,50,Hybrid,0.9166666666666667
+27,Accelerometer dropout,0,Personalized,0.49999999999999994
+27,Accelerometer dropout,0,Population,0.49999999999999994
+27,Accelerometer dropout,0,Hybrid,0.49999999999999994
+27,Accelerometer dropout,5,Personalized,0.6597222222222222
+27,Accelerometer dropout,5,Population,0.611111111111111
+27,Accelerometer dropout,5,Hybrid,0.6736111111111112
+27,Accelerometer dropout,10,Personalized,0.7847222222222222
+27,Accelerometer dropout,10,Population,0.6875
+27,Accelerometer dropout,10,Hybrid,0.8194444444444444
+27,Accelerometer dropout,20,Personalized,0.9305555555555556
+27,Accelerometer dropout,20,Population,0.9097222222222223
+27,Accelerometer dropout,20,Hybrid,0.9652777777777778
+27,Accelerometer dropout,30,Personalized,0.9375
+27,Accelerometer dropout,30,Population,0.9930555555555555
+27,Accelerometer dropout,30,Hybrid,0.986111111111111
+27,Accelerometer dropout,40,Personalized,0.9305555555555556
+27,Accelerometer dropout,40,Population,1.0
+27,Accelerometer dropout,40,Hybrid,1.0
+27,Accelerometer dropout,50,Personalized,0.9305555555555556
+27,Accelerometer dropout,50,Population,1.0
+27,Accelerometer dropout,50,Hybrid,1.0
+27,Gyroscope drift,0,Personalized,0.49999999999999994
+27,Gyroscope drift,0,Population,0.49999999999999994
+27,Gyroscope drift,0,Hybrid,0.49999999999999994
+27,Gyroscope drift,5,Personalized,0.5208333333333334
+27,Gyroscope drift,5,Population,0.4756944444444445
+27,Gyroscope drift,5,Hybrid,0.4965277777777778
+27,Gyroscope drift,10,Personalized,0.5173611111111112
+27,Gyroscope drift,10,Population,0.45138888888888895
+27,Gyroscope drift,10,Hybrid,0.4965277777777778
+27,Gyroscope drift,20,Personalized,0.53125
+27,Gyroscope drift,20,Population,0.4444444444444444
+27,Gyroscope drift,20,Hybrid,0.4930555555555556
+27,Gyroscope drift,30,Personalized,0.5416666666666667
+27,Gyroscope drift,30,Population,0.45138888888888884
+27,Gyroscope drift,30,Hybrid,0.5138888888888888
+27,Gyroscope drift,40,Personalized,0.5555555555555556
+27,Gyroscope drift,40,Population,0.4722222222222222
+27,Gyroscope drift,40,Hybrid,0.5208333333333333
+27,Gyroscope drift,50,Personalized,0.5555555555555556
+27,Gyroscope drift,50,Population,0.47916666666666663
+27,Gyroscope drift,50,Hybrid,0.5347222222222222
+27,Accelerometer gain error,0,Personalized,0.49999999999999994
+27,Accelerometer gain error,0,Population,0.49999999999999994
+27,Accelerometer gain error,0,Hybrid,0.49999999999999994
+27,Accelerometer gain error,5,Personalized,0.4444444444444444
+27,Accelerometer gain error,5,Population,0.48611111111111116
+27,Accelerometer gain error,5,Hybrid,0.4722222222222222
+27,Accelerometer gain error,10,Personalized,0.5069444444444444
+27,Accelerometer gain error,10,Population,0.5347222222222222
+27,Accelerometer gain error,10,Hybrid,0.5555555555555556
+27,Accelerometer gain error,20,Personalized,0.6527777777777777
+27,Accelerometer gain error,20,Population,0.7083333333333334
+27,Accelerometer gain error,20,Hybrid,0.7569444444444445
+27,Accelerometer gain error,30,Personalized,0.75
+27,Accelerometer gain error,30,Population,0.9375
+27,Accelerometer gain error,30,Hybrid,0.9236111111111112
+27,Accelerometer gain error,40,Personalized,0.7777777777777778
+27,Accelerometer gain error,40,Population,0.9930555555555555
+27,Accelerometer gain error,40,Hybrid,0.9791666666666666
+27,Accelerometer gain error,50,Personalized,0.7847222222222222
+27,Accelerometer gain error,50,Population,1.0
+27,Accelerometer gain error,50,Hybrid,0.986111111111111
+28,Sensor noise,0,Personalized,0.49999999999999994
+28,Sensor noise,0,Population,0.49999999999999994
+28,Sensor noise,0,Hybrid,0.49999999999999994
+28,Sensor noise,5,Personalized,0.5041322314049587
+28,Sensor noise,5,Population,0.5289256198347108
+28,Sensor noise,5,Hybrid,0.5289256198347108
+28,Sensor noise,10,Personalized,0.5371900826446281
+28,Sensor noise,10,Population,0.5950413223140496
+28,Sensor noise,10,Hybrid,0.5619834710743802
+28,Sensor noise,20,Personalized,0.6942148760330579
+28,Sensor noise,20,Population,0.6033057851239669
+28,Sensor noise,20,Hybrid,0.6942148760330579
+28,Sensor noise,30,Personalized,0.743801652892562
+28,Sensor noise,30,Population,0.7355371900826446
+28,Sensor noise,30,Hybrid,0.7603305785123967
+28,Sensor noise,40,Personalized,0.8181818181818181
+28,Sensor noise,40,Population,0.9090909090909092
+28,Sensor noise,40,Hybrid,0.8760330578512396
+28,Sensor noise,50,Personalized,0.8760330578512396
+28,Sensor noise,50,Population,0.9752066115702479
+28,Sensor noise,50,Hybrid,0.9834710743801652
+28,Accelerometer dropout,0,Personalized,0.49999999999999994
+28,Accelerometer dropout,0,Population,0.49999999999999994
+28,Accelerometer dropout,0,Hybrid,0.49999999999999994
+28,Accelerometer dropout,5,Personalized,0.4380165289256198
+28,Accelerometer dropout,5,Population,0.4297520661157025
+28,Accelerometer dropout,5,Hybrid,0.4132231404958678
+28,Accelerometer dropout,10,Personalized,0.3677685950413223
+28,Accelerometer dropout,10,Population,0.3388429752066116
+28,Accelerometer dropout,10,Hybrid,0.3305785123966942
+28,Accelerometer dropout,20,Personalized,0.2975206611570248
+28,Accelerometer dropout,20,Population,0.4380165289256198
+28,Accelerometer dropout,20,Hybrid,0.3305785123966942
+28,Accelerometer dropout,30,Personalized,0.38016528925619836
+28,Accelerometer dropout,30,Population,0.7272727272727273
+28,Accelerometer dropout,30,Hybrid,0.49586776859504134
+28,Accelerometer dropout,40,Personalized,0.4380165289256198
+28,Accelerometer dropout,40,Population,0.9504132231404958
+28,Accelerometer dropout,40,Hybrid,0.71900826446281
+28,Accelerometer dropout,50,Personalized,0.44628099173553726
+28,Accelerometer dropout,50,Population,0.9917355371900827
+28,Accelerometer dropout,50,Hybrid,0.8099173553719008
+28,Gyroscope drift,0,Personalized,0.49999999999999994
+28,Gyroscope drift,0,Population,0.49999999999999994
+28,Gyroscope drift,0,Hybrid,0.49999999999999994
+28,Gyroscope drift,5,Personalized,0.5206611570247934
+28,Gyroscope drift,5,Population,0.487603305785124
+28,Gyroscope drift,5,Hybrid,0.5
+28,Gyroscope drift,10,Personalized,0.524793388429752
+28,Gyroscope drift,10,Population,0.48347107438016534
+28,Gyroscope drift,10,Hybrid,0.512396694214876
+28,Gyroscope drift,20,Personalized,0.5371900826446281
+28,Gyroscope drift,20,Population,0.487603305785124
+28,Gyroscope drift,20,Hybrid,0.512396694214876
+28,Gyroscope drift,30,Personalized,0.5454545454545454
+28,Gyroscope drift,30,Population,0.49586776859504134
+28,Gyroscope drift,30,Hybrid,0.5289256198347108
+28,Gyroscope drift,40,Personalized,0.5454545454545454
+28,Gyroscope drift,40,Population,0.5371900826446281
+28,Gyroscope drift,40,Hybrid,0.5454545454545454
+28,Gyroscope drift,50,Personalized,0.5537190082644627
+28,Gyroscope drift,50,Population,0.5537190082644629
+28,Gyroscope drift,50,Hybrid,0.5537190082644627
+28,Accelerometer gain error,0,Personalized,0.49999999999999994
+28,Accelerometer gain error,0,Population,0.49999999999999994
+28,Accelerometer gain error,0,Hybrid,0.49999999999999994
+28,Accelerometer gain error,5,Personalized,0.5454545454545454
+28,Accelerometer gain error,5,Population,0.6198347107438017
+28,Accelerometer gain error,5,Hybrid,0.578512396694215
+28,Accelerometer gain error,10,Personalized,0.5702479338842976
+28,Accelerometer gain error,10,Population,0.7438016528925621
+28,Accelerometer gain error,10,Hybrid,0.652892561983471
+28,Accelerometer gain error,20,Personalized,0.5743801652892562
+28,Accelerometer gain error,20,Population,0.9090909090909092
+28,Accelerometer gain error,20,Hybrid,0.7603305785123967
+28,Accelerometer gain error,30,Personalized,0.5867768595041323
+28,Accelerometer gain error,30,Population,0.9834710743801652
+28,Accelerometer gain error,30,Hybrid,0.8760330578512396
+28,Accelerometer gain error,40,Personalized,0.5909090909090909
+28,Accelerometer gain error,40,Population,1.0
+28,Accelerometer gain error,40,Hybrid,0.9338842975206612
+28,Accelerometer gain error,50,Personalized,0.5950413223140496
+28,Accelerometer gain error,50,Population,1.0
+28,Accelerometer gain error,50,Hybrid,0.9586776859504132
+29,Sensor noise,0,Personalized,0.49999999999999994
+29,Sensor noise,0,Population,0.49999999999999994
+29,Sensor noise,0,Hybrid,0.49999999999999994
+29,Sensor noise,5,Personalized,0.487603305785124
+29,Sensor noise,5,Population,0.487603305785124
+29,Sensor noise,5,Hybrid,0.47107438016528935
+29,Sensor noise,10,Personalized,0.48760330578512395
+29,Sensor noise,10,Population,0.4793388429752066
+29,Sensor noise,10,Hybrid,0.512396694214876
+29,Sensor noise,20,Personalized,0.5289256198347108
+29,Sensor noise,20,Population,0.5454545454545454
+29,Sensor noise,20,Hybrid,0.5289256198347108
+29,Sensor noise,30,Personalized,0.6115702479338843
+29,Sensor noise,30,Population,0.6033057851239669
+29,Sensor noise,30,Hybrid,0.5867768595041323
+29,Sensor noise,40,Personalized,0.6694214876033058
+29,Sensor noise,40,Population,0.6694214876033058
+29,Sensor noise,40,Hybrid,0.7107438016528925
+29,Sensor noise,50,Personalized,0.743801652892562
+29,Sensor noise,50,Population,0.768595041322314
+29,Sensor noise,50,Hybrid,0.743801652892562
+29,Accelerometer dropout,0,Personalized,0.49999999999999994
+29,Accelerometer dropout,0,Population,0.49999999999999994
+29,Accelerometer dropout,0,Hybrid,0.49999999999999994
+29,Accelerometer dropout,5,Personalized,0.40909090909090906
+29,Accelerometer dropout,5,Population,0.371900826446281
+29,Accelerometer dropout,5,Hybrid,0.3801652892561983
+29,Accelerometer dropout,10,Personalized,0.3801652892561983
+29,Accelerometer dropout,10,Population,0.28099173553719003
+29,Accelerometer dropout,10,Hybrid,0.3223140495867768
+29,Accelerometer dropout,20,Personalized,0.2975206611570248
+29,Accelerometer dropout,20,Population,0.19834710743801653
+29,Accelerometer dropout,20,Hybrid,0.2644628099173554
+29,Accelerometer dropout,30,Personalized,0.3305785123966942
+29,Accelerometer dropout,30,Population,0.1487603305785124
+29,Accelerometer dropout,30,Hybrid,0.23966942148760328
+29,Accelerometer dropout,40,Personalized,0.32231404958677684
+29,Accelerometer dropout,40,Population,0.2231404958677686
+29,Accelerometer dropout,40,Hybrid,0.28099173553719003
+29,Accelerometer dropout,50,Personalized,0.32231404958677684
+29,Accelerometer dropout,50,Population,0.36363636363636365
+29,Accelerometer dropout,50,Hybrid,0.3305785123966942
+29,Gyroscope drift,0,Personalized,0.49999999999999994
+29,Gyroscope drift,0,Population,0.49999999999999994
+29,Gyroscope drift,0,Hybrid,0.49999999999999994
+29,Gyroscope drift,5,Personalized,0.487603305785124
+29,Gyroscope drift,5,Population,0.49586776859504134
+29,Gyroscope drift,5,Hybrid,0.4834710743801653
+29,Gyroscope drift,10,Personalized,0.5041322314049587
+29,Gyroscope drift,10,Population,0.5082644628099173
+29,Gyroscope drift,10,Hybrid,0.5041322314049587
+29,Gyroscope drift,20,Personalized,0.5247933884297521
+29,Gyroscope drift,20,Population,0.5206611570247934
+29,Gyroscope drift,20,Hybrid,0.5371900826446281
+29,Gyroscope drift,30,Personalized,0.5371900826446281
+29,Gyroscope drift,30,Population,0.5206611570247934
+29,Gyroscope drift,30,Hybrid,0.5454545454545454
+29,Gyroscope drift,40,Personalized,0.5454545454545454
+29,Gyroscope drift,40,Population,0.5206611570247934
+29,Gyroscope drift,40,Hybrid,0.5619834710743802
+29,Gyroscope drift,50,Personalized,0.5537190082644629
+29,Gyroscope drift,50,Population,0.49586776859504134
+29,Gyroscope drift,50,Hybrid,0.5702479338842975
+29,Accelerometer gain error,0,Personalized,0.49999999999999994
+29,Accelerometer gain error,0,Population,0.49999999999999994
+29,Accelerometer gain error,0,Hybrid,0.49999999999999994
+29,Accelerometer gain error,5,Personalized,0.5454545454545455
+29,Accelerometer gain error,5,Population,0.6198347107438017
+29,Accelerometer gain error,5,Hybrid,0.5867768595041323
+29,Accelerometer gain error,10,Personalized,0.5867768595041323
+29,Accelerometer gain error,10,Population,0.6859504132231405
+29,Accelerometer gain error,10,Hybrid,0.6528925619834711
+29,Accelerometer gain error,20,Personalized,0.6611570247933884
+29,Accelerometer gain error,20,Population,0.8264462809917356
+29,Accelerometer gain error,20,Hybrid,0.7438016528925621
+29,Accelerometer gain error,30,Personalized,0.6694214876033058
+29,Accelerometer gain error,30,Population,0.9008264462809917
+29,Accelerometer gain error,30,Hybrid,0.8099173553719008
+29,Accelerometer gain error,40,Personalized,0.6776859504132231
+29,Accelerometer gain error,40,Population,0.9421487603305785
+29,Accelerometer gain error,40,Hybrid,0.8264462809917356
+29,Accelerometer gain error,50,Personalized,0.6776859504132231
+29,Accelerometer gain error,50,Population,0.9752066115702479
+29,Accelerometer gain error,50,Hybrid,0.884297520661157
+30,Sensor noise,0,Personalized,0.5
+30,Sensor noise,0,Population,0.5
+30,Sensor noise,0,Hybrid,0.5
+30,Sensor noise,5,Personalized,0.5443786982248521
+30,Sensor noise,5,Population,0.5029585798816568
+30,Sensor noise,5,Hybrid,0.48520710059171596
+30,Sensor noise,10,Personalized,0.4970414201183431
+30,Sensor noise,10,Population,0.5384615384615385
+30,Sensor noise,10,Hybrid,0.5384615384615385
+30,Sensor noise,20,Personalized,0.650887573964497
+30,Sensor noise,20,Population,0.6923076923076923
+30,Sensor noise,20,Hybrid,0.7337278106508877
+30,Sensor noise,30,Personalized,0.7396449704142012
+30,Sensor noise,30,Population,0.8816568047337278
+30,Sensor noise,30,Hybrid,0.893491124260355
+30,Sensor noise,40,Personalized,0.7337278106508875
+30,Sensor noise,40,Population,0.970414201183432
+30,Sensor noise,40,Hybrid,0.9585798816568047
+30,Sensor noise,50,Personalized,0.834319526627219
+30,Sensor noise,50,Population,1.0
+30,Sensor noise,50,Hybrid,1.0
+30,Accelerometer dropout,0,Personalized,0.5
+30,Accelerometer dropout,0,Population,0.5
+30,Accelerometer dropout,0,Hybrid,0.5
+30,Accelerometer dropout,5,Personalized,0.49112426035502965
+30,Accelerometer dropout,5,Population,0.41420118343195267
+30,Accelerometer dropout,5,Hybrid,0.41420118343195267
+30,Accelerometer dropout,10,Personalized,0.33136094674556216
+30,Accelerometer dropout,10,Population,0.39644970414201186
+30,Accelerometer dropout,10,Hybrid,0.3550295857988166
+30,Accelerometer dropout,20,Personalized,0.22485207100591714
+30,Accelerometer dropout,20,Population,0.5502958579881657
+30,Accelerometer dropout,20,Hybrid,0.34911242603550297
+30,Accelerometer dropout,30,Personalized,0.33727810650887574
+30,Accelerometer dropout,30,Population,0.6863905325443787
+30,Accelerometer dropout,30,Hybrid,0.5680473372781065
+30,Accelerometer dropout,40,Personalized,0.38461538461538464
+30,Accelerometer dropout,40,Population,0.8402366863905326
+30,Accelerometer dropout,40,Hybrid,0.7337278106508875
+30,Accelerometer dropout,50,Personalized,0.38461538461538464
+30,Accelerometer dropout,50,Population,0.9644970414201184
+30,Accelerometer dropout,50,Hybrid,0.8639053254437871
+30,Gyroscope drift,0,Personalized,0.5
+30,Gyroscope drift,0,Population,0.5
+30,Gyroscope drift,0,Hybrid,0.5
+30,Gyroscope drift,5,Personalized,0.5177514792899408
+30,Gyroscope drift,5,Population,0.5
+30,Gyroscope drift,5,Hybrid,0.5325443786982249
+30,Gyroscope drift,10,Personalized,0.5414201183431953
+30,Gyroscope drift,10,Population,0.5088757396449703
+30,Gyroscope drift,10,Hybrid,0.5384615384615385
+30,Gyroscope drift,20,Personalized,0.5680473372781065
+30,Gyroscope drift,20,Population,0.5207100591715976
+30,Gyroscope drift,20,Hybrid,0.5502958579881657
+30,Gyroscope drift,30,Personalized,0.5917159763313609
+30,Gyroscope drift,30,Population,0.5562130177514792
+30,Gyroscope drift,30,Hybrid,0.5562130177514792
+30,Gyroscope drift,40,Personalized,0.6213017751479291
+30,Gyroscope drift,40,Population,0.6094674556213018
+30,Gyroscope drift,40,Hybrid,0.6627218934911242
+30,Gyroscope drift,50,Personalized,0.650887573964497
+30,Gyroscope drift,50,Population,0.6745562130177515
+30,Gyroscope drift,50,Hybrid,0.7041420118343196
+30,Accelerometer gain error,0,Personalized,0.5
+30,Accelerometer gain error,0,Population,0.5
+30,Accelerometer gain error,0,Hybrid,0.5
+30,Accelerometer gain error,5,Personalized,0.5473372781065089
+30,Accelerometer gain error,5,Population,0.5621301775147929
+30,Accelerometer gain error,5,Hybrid,0.5798816568047337
+30,Accelerometer gain error,10,Personalized,0.5621301775147929
+30,Accelerometer gain error,10,Population,0.7100591715976332
+30,Accelerometer gain error,10,Hybrid,0.6568047337278107
+30,Accelerometer gain error,20,Personalized,0.5680473372781065
+30,Accelerometer gain error,20,Population,0.8579881656804734
+30,Accelerometer gain error,20,Hybrid,0.7869822485207101
+30,Accelerometer gain error,30,Personalized,0.5710059171597633
+30,Accelerometer gain error,30,Population,0.911242603550296
+30,Accelerometer gain error,30,Hybrid,0.8757396449704142
+30,Accelerometer gain error,40,Personalized,0.5769230769230769
+30,Accelerometer gain error,40,Population,0.9408284023668639
+30,Accelerometer gain error,40,Hybrid,0.9289940828402367
+30,Accelerometer gain error,50,Personalized,0.5769230769230769
+30,Accelerometer gain error,50,Population,0.9467455621301776
+30,Accelerometer gain error,50,Hybrid,0.9408284023668639
