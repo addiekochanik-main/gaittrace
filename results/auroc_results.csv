@@ -1,0 +1,883 @@
+participant,model,repeat,change,auroc
+1,Personalized,0,5,0.42105263157894735
+1,Personalized,0,10,0.5595567867036011
+1,Personalized,0,20,0.8337950138504155
+1,Personalized,0,30,0.9501385041551246
+1,Personalized,0,40,0.96398891966759
+1,Personalized,0,50,0.9695290858725762
+1,Full population,0,5,0.6232686980609419
+1,Full population,0,10,0.7340720221606649
+1,Full population,0,20,0.9113573407202216
+1,Full population,0,30,0.9722991689750693
+1,Full population,0,40,0.9944598337950139
+1,Full population,0,50,1.0
+1,Size-matched population,0,5,0.628808864265928
+1,Size-matched population,0,10,0.6814404432132964
+1,Size-matched population,0,20,0.8975069252077562
+1,Size-matched population,0,30,0.9667590027700832
+1,Size-matched population,0,40,0.9806094182825486
+1,Size-matched population,0,50,1.0
+1,Size-matched population,1,5,0.6204986149584487
+1,Size-matched population,1,10,0.7229916897506925
+1,Size-matched population,1,20,0.894736842105263
+1,Size-matched population,1,30,0.9584487534626038
+1,Size-matched population,1,40,0.9722991689750693
+1,Size-matched population,1,50,0.9861495844875346
+1,Size-matched population,2,5,0.6398891966759003
+1,Size-matched population,2,10,0.6952908587257618
+1,Size-matched population,2,20,0.8670360110803323
+1,Size-matched population,2,30,0.9224376731301939
+1,Size-matched population,2,40,0.9584487534626038
+1,Size-matched population,2,50,0.9778393351800555
+1,Size-matched population,3,5,0.6232686980609419
+1,Size-matched population,3,10,0.7534626038781164
+1,Size-matched population,3,20,0.9307479224376731
+1,Size-matched population,3,30,0.9944598337950139
+1,Size-matched population,3,40,1.0
+1,Size-matched population,3,50,1.0
+1,Size-matched population,4,5,0.6398891966759003
+1,Size-matched population,4,10,0.7562326869806094
+1,Size-matched population,4,20,0.9307479224376731
+1,Size-matched population,4,30,0.9695290858725762
+1,Size-matched population,4,40,0.9833795013850416
+1,Size-matched population,4,50,0.997229916897507
+3,Personalized,0,5,0.6388888888888888
+3,Personalized,0,10,0.8541666666666666
+3,Personalized,0,20,0.9583333333333334
+3,Personalized,0,30,0.9861111111111112
+3,Personalized,0,40,1.0
+3,Personalized,0,50,1.0
+3,Full population,0,5,0.47222222222222227
+3,Full population,0,10,0.576388888888889
+3,Full population,0,20,0.861111111111111
+3,Full population,0,30,0.9791666666666666
+3,Full population,0,40,1.0
+3,Full population,0,50,1.0
+3,Size-matched population,0,5,0.4861111111111111
+3,Size-matched population,0,10,0.6875
+3,Size-matched population,0,20,0.9652777777777777
+3,Size-matched population,0,30,1.0
+3,Size-matched population,0,40,1.0
+3,Size-matched population,0,50,1.0
+3,Size-matched population,1,5,0.45138888888888895
+3,Size-matched population,1,10,0.6111111111111112
+3,Size-matched population,1,20,0.9097222222222223
+3,Size-matched population,1,30,1.0
+3,Size-matched population,1,40,1.0
+3,Size-matched population,1,50,1.0
+3,Size-matched population,2,5,0.625
+3,Size-matched population,2,10,0.7013888888888888
+3,Size-matched population,2,20,1.0
+3,Size-matched population,2,30,1.0
+3,Size-matched population,2,40,1.0
+3,Size-matched population,2,50,1.0
+3,Size-matched population,3,5,0.5625
+3,Size-matched population,3,10,0.7291666666666666
+3,Size-matched population,3,20,0.951388888888889
+3,Size-matched population,3,30,1.0
+3,Size-matched population,3,40,1.0
+3,Size-matched population,3,50,1.0
+3,Size-matched population,4,5,0.36111111111111116
+3,Size-matched population,4,10,0.39583333333333337
+3,Size-matched population,4,20,0.7430555555555556
+3,Size-matched population,4,30,0.9652777777777778
+3,Size-matched population,4,40,1.0
+3,Size-matched population,4,50,1.0
+5,Personalized,0,5,0.576388888888889
+5,Personalized,0,10,0.6041666666666666
+5,Personalized,0,20,0.6736111111111112
+5,Personalized,0,30,0.6875
+5,Personalized,0,40,0.701388888888889
+5,Personalized,0,50,0.7152777777777778
+5,Full population,0,5,0.6180555555555556
+5,Full population,0,10,0.798611111111111
+5,Full population,0,20,0.9027777777777779
+5,Full population,0,30,0.9861111111111112
+5,Full population,0,40,1.0
+5,Full population,0,50,1.0
+5,Size-matched population,0,5,0.5555555555555556
+5,Size-matched population,0,10,0.6319444444444444
+5,Size-matched population,0,20,0.8125
+5,Size-matched population,0,30,0.9027777777777779
+5,Size-matched population,0,40,0.9652777777777778
+5,Size-matched population,0,50,0.9861111111111112
+5,Size-matched population,1,5,0.6180555555555556
+5,Size-matched population,1,10,0.673611111111111
+5,Size-matched population,1,20,0.7777777777777778
+5,Size-matched population,1,30,0.8402777777777779
+5,Size-matched population,1,40,0.9236111111111112
+5,Size-matched population,1,50,0.9722222222222223
+5,Size-matched population,2,5,0.5902777777777778
+5,Size-matched population,2,10,0.6666666666666666
+5,Size-matched population,2,20,0.7777777777777778
+5,Size-matched population,2,30,0.8541666666666666
+5,Size-matched population,2,40,0.9027777777777778
+5,Size-matched population,2,50,0.9513888888888888
+5,Size-matched population,3,5,0.5972222222222222
+5,Size-matched population,3,10,0.6944444444444445
+5,Size-matched population,3,20,0.8541666666666667
+5,Size-matched population,3,30,0.9513888888888888
+5,Size-matched population,3,40,0.986111111111111
+5,Size-matched population,3,50,1.0
+5,Size-matched population,4,5,0.6041666666666667
+5,Size-matched population,4,10,0.6597222222222222
+5,Size-matched population,4,20,0.7916666666666666
+5,Size-matched population,4,30,0.8333333333333334
+5,Size-matched population,4,40,0.8472222222222223
+5,Size-matched population,4,50,0.9027777777777778
+6,Personalized,0,5,0.5659722222222222
+6,Personalized,0,10,0.6597222222222223
+6,Personalized,0,20,0.7708333333333334
+6,Personalized,0,30,0.8472222222222222
+6,Personalized,0,40,0.8680555555555556
+6,Personalized,0,50,0.9236111111111112
+6,Full population,0,5,0.6458333333333334
+6,Full population,0,10,0.7708333333333334
+6,Full population,0,20,0.9444444444444444
+6,Full population,0,30,0.9861111111111112
+6,Full population,0,40,1.0
+6,Full population,0,50,1.0
+6,Size-matched population,0,5,0.5902777777777778
+6,Size-matched population,0,10,0.7847222222222222
+6,Size-matched population,0,20,0.9652777777777778
+6,Size-matched population,0,30,1.0
+6,Size-matched population,0,40,1.0
+6,Size-matched population,0,50,1.0
+6,Size-matched population,1,5,0.5972222222222223
+6,Size-matched population,1,10,0.6875000000000001
+6,Size-matched population,1,20,0.8819444444444444
+6,Size-matched population,1,30,0.9791666666666666
+6,Size-matched population,1,40,0.9791666666666666
+6,Size-matched population,1,50,0.9930555555555555
+6,Size-matched population,2,5,0.548611111111111
+6,Size-matched population,2,10,0.7013888888888888
+6,Size-matched population,2,20,0.951388888888889
+6,Size-matched population,2,30,0.986111111111111
+6,Size-matched population,2,40,1.0
+6,Size-matched population,2,50,1.0
+6,Size-matched population,3,5,0.6875
+6,Size-matched population,3,10,0.798611111111111
+6,Size-matched population,3,20,0.9444444444444444
+6,Size-matched population,3,30,0.9861111111111112
+6,Size-matched population,3,40,1.0
+6,Size-matched population,3,50,1.0
+6,Size-matched population,4,5,0.701388888888889
+6,Size-matched population,4,10,0.9027777777777778
+6,Size-matched population,4,20,0.9305555555555556
+6,Size-matched population,4,30,0.9791666666666666
+6,Size-matched population,4,40,1.0
+6,Size-matched population,4,50,1.0
+7,Personalized,0,5,0.5277777777777778
+7,Personalized,0,10,0.6111111111111112
+7,Personalized,0,20,0.7986111111111112
+7,Personalized,0,30,0.9027777777777779
+7,Personalized,0,40,0.9305555555555556
+7,Personalized,0,50,0.9305555555555556
+7,Full population,0,5,0.7569444444444444
+7,Full population,0,10,0.9375
+7,Full population,0,20,1.0
+7,Full population,0,30,1.0
+7,Full population,0,40,1.0
+7,Full population,0,50,1.0
+7,Size-matched population,0,5,0.6458333333333333
+7,Size-matched population,0,10,0.7916666666666667
+7,Size-matched population,0,20,0.9652777777777778
+7,Size-matched population,0,30,0.9930555555555555
+7,Size-matched population,0,40,0.9930555555555555
+7,Size-matched population,0,50,1.0
+7,Size-matched population,1,5,0.6666666666666666
+7,Size-matched population,1,10,0.8055555555555556
+7,Size-matched population,1,20,0.9652777777777778
+7,Size-matched population,1,30,1.0
+7,Size-matched population,1,40,1.0
+7,Size-matched population,1,50,1.0
+7,Size-matched population,2,5,0.7638888888888888
+7,Size-matched population,2,10,0.8958333333333334
+7,Size-matched population,2,20,0.9583333333333334
+7,Size-matched population,2,30,0.986111111111111
+7,Size-matched population,2,40,1.0
+7,Size-matched population,2,50,1.0
+7,Size-matched population,3,5,0.7361111111111112
+7,Size-matched population,3,10,0.7986111111111112
+7,Size-matched population,3,20,0.9166666666666667
+7,Size-matched population,3,30,0.9930555555555555
+7,Size-matched population,3,40,1.0
+7,Size-matched population,3,50,1.0
+7,Size-matched population,4,5,0.6944444444444444
+7,Size-matched population,4,10,0.8125
+7,Size-matched population,4,20,1.0
+7,Size-matched population,4,30,1.0
+7,Size-matched population,4,40,1.0
+7,Size-matched population,4,50,1.0
+8,Personalized,0,5,0.555
+8,Personalized,0,10,0.62
+8,Personalized,0,20,0.6950000000000001
+8,Personalized,0,30,0.735
+8,Personalized,0,40,0.75
+8,Personalized,0,50,0.79
+8,Full population,0,5,0.7000000000000001
+8,Full population,0,10,0.81
+8,Full population,0,20,0.98
+8,Full population,0,30,1.0
+8,Full population,0,40,1.0
+8,Full population,0,50,1.0
+8,Size-matched population,0,5,0.77
+8,Size-matched population,0,10,0.86
+8,Size-matched population,0,20,0.9400000000000001
+8,Size-matched population,0,30,1.0
+8,Size-matched population,0,40,1.0
+8,Size-matched population,0,50,1.0
+8,Size-matched population,1,5,0.79
+8,Size-matched population,1,10,0.8300000000000002
+8,Size-matched population,1,20,0.8800000000000001
+8,Size-matched population,1,30,0.9500000000000001
+8,Size-matched population,1,40,0.97
+8,Size-matched population,1,50,0.98
+8,Size-matched population,2,5,0.7300000000000001
+8,Size-matched population,2,10,0.85
+8,Size-matched population,2,20,0.9100000000000001
+8,Size-matched population,2,30,0.96
+8,Size-matched population,2,40,0.99
+8,Size-matched population,2,50,0.99
+8,Size-matched population,3,5,0.7
+8,Size-matched population,3,10,0.81
+8,Size-matched population,3,20,0.93
+8,Size-matched population,3,30,0.9800000000000001
+8,Size-matched population,3,40,1.0
+8,Size-matched population,3,50,1.0
+8,Size-matched population,4,5,0.7700000000000001
+8,Size-matched population,4,10,0.87
+8,Size-matched population,4,20,0.95
+8,Size-matched population,4,30,0.9800000000000001
+8,Size-matched population,4,40,1.0
+8,Size-matched population,4,50,1.0
+11,Personalized,0,5,0.5763888888888888
+11,Personalized,0,10,0.5694444444444444
+11,Personalized,0,20,0.6805555555555556
+11,Personalized,0,30,0.8541666666666665
+11,Personalized,0,40,0.9097222222222222
+11,Personalized,0,50,0.9513888888888888
+11,Full population,0,5,0.4236111111111111
+11,Full population,0,10,0.45833333333333337
+11,Full population,0,20,0.7916666666666667
+11,Full population,0,30,0.9583333333333334
+11,Full population,0,40,1.0
+11,Full population,0,50,1.0
+11,Size-matched population,0,5,0.4375
+11,Size-matched population,0,10,0.5763888888888888
+11,Size-matched population,0,20,0.6319444444444444
+11,Size-matched population,0,30,0.7916666666666667
+11,Size-matched population,0,40,0.8541666666666666
+11,Size-matched population,0,50,0.9791666666666667
+11,Size-matched population,1,5,0.5069444444444444
+11,Size-matched population,1,10,0.4375
+11,Size-matched population,1,20,0.4652777777777778
+11,Size-matched population,1,30,0.7569444444444444
+11,Size-matched population,1,40,0.8819444444444445
+11,Size-matched population,1,50,0.9027777777777778
+11,Size-matched population,2,5,0.5347222222222222
+11,Size-matched population,2,10,0.6666666666666666
+11,Size-matched population,2,20,0.8194444444444444
+11,Size-matched population,2,30,0.861111111111111
+11,Size-matched population,2,40,0.9652777777777779
+11,Size-matched population,2,50,0.9722222222222223
+11,Size-matched population,3,5,0.35416666666666663
+11,Size-matched population,3,10,0.32638888888888895
+11,Size-matched population,3,20,0.3402777777777778
+11,Size-matched population,3,30,0.5972222222222222
+11,Size-matched population,3,40,0.8402777777777778
+11,Size-matched population,3,50,0.9444444444444444
+11,Size-matched population,4,5,0.4791666666666667
+11,Size-matched population,4,10,0.41666666666666663
+11,Size-matched population,4,20,0.3611111111111111
+11,Size-matched population,4,30,0.5277777777777778
+11,Size-matched population,4,40,0.826388888888889
+11,Size-matched population,4,50,0.9027777777777778
+14,Personalized,0,5,0.6805555555555556
+14,Personalized,0,10,0.7083333333333334
+14,Personalized,0,20,0.7152777777777778
+14,Personalized,0,30,0.75
+14,Personalized,0,40,0.75
+14,Personalized,0,50,0.75
+14,Full population,0,5,0.6111111111111112
+14,Full population,0,10,0.7291666666666666
+14,Full population,0,20,0.9583333333333334
+14,Full population,0,30,1.0
+14,Full population,0,40,1.0
+14,Full population,0,50,1.0
+14,Size-matched population,0,5,0.638888888888889
+14,Size-matched population,0,10,0.7430555555555555
+14,Size-matched population,0,20,0.9027777777777779
+14,Size-matched population,0,30,0.9722222222222222
+14,Size-matched population,0,40,0.986111111111111
+14,Size-matched population,0,50,1.0
+14,Size-matched population,1,5,0.5833333333333334
+14,Size-matched population,1,10,0.6458333333333333
+14,Size-matched population,1,20,0.861111111111111
+14,Size-matched population,1,30,0.9930555555555555
+14,Size-matched population,1,40,1.0
+14,Size-matched population,1,50,1.0
+14,Size-matched population,2,5,0.7083333333333334
+14,Size-matched population,2,10,0.763888888888889
+14,Size-matched population,2,20,0.9166666666666667
+14,Size-matched population,2,30,0.9791666666666666
+14,Size-matched population,2,40,0.9861111111111112
+14,Size-matched population,2,50,1.0
+14,Size-matched population,3,5,0.5833333333333333
+14,Size-matched population,3,10,0.6111111111111112
+14,Size-matched population,3,20,0.7708333333333334
+14,Size-matched population,3,30,0.9236111111111109
+14,Size-matched population,3,40,1.0
+14,Size-matched population,3,50,1.0
+14,Size-matched population,4,5,0.611111111111111
+14,Size-matched population,4,10,0.736111111111111
+14,Size-matched population,4,20,0.9722222222222222
+14,Size-matched population,4,30,1.0
+14,Size-matched population,4,40,1.0
+14,Size-matched population,4,50,1.0
+15,Personalized,0,5,0.5743801652892562
+15,Personalized,0,10,0.5909090909090908
+15,Personalized,0,20,0.5826446280991735
+15,Personalized,0,30,0.5537190082644629
+15,Personalized,0,40,0.46280991735537186
+15,Personalized,0,50,0.4132231404958678
+15,Full population,0,5,0.5123966942148761
+15,Full population,0,10,0.6859504132231405
+15,Full population,0,20,0.9008264462809917
+15,Full population,0,30,1.0
+15,Full population,0,40,1.0
+15,Full population,0,50,1.0
+15,Size-matched population,0,5,0.6776859504132231
+15,Size-matched population,0,10,0.7768595041322315
+15,Size-matched population,0,20,0.9669421487603306
+15,Size-matched population,0,30,0.9917355371900827
+15,Size-matched population,0,40,1.0
+15,Size-matched population,0,50,0.9917355371900827
+15,Size-matched population,1,5,0.628099173553719
+15,Size-matched population,1,10,0.7603305785123966
+15,Size-matched population,1,20,0.884297520661157
+15,Size-matched population,1,30,1.0
+15,Size-matched population,1,40,1.0
+15,Size-matched population,1,50,1.0
+15,Size-matched population,2,5,0.6280991735537189
+15,Size-matched population,2,10,0.6942148760330579
+15,Size-matched population,2,20,0.8347107438016529
+15,Size-matched population,2,30,0.9256198347107437
+15,Size-matched population,2,40,0.9834710743801652
+15,Size-matched population,2,50,1.0
+15,Size-matched population,3,5,0.6942148760330579
+15,Size-matched population,3,10,0.8429752066115702
+15,Size-matched population,3,20,1.0
+15,Size-matched population,3,30,1.0
+15,Size-matched population,3,40,1.0
+15,Size-matched population,3,50,1.0
+15,Size-matched population,4,5,0.6611570247933884
+15,Size-matched population,4,10,0.768595041322314
+15,Size-matched population,4,20,0.9421487603305785
+15,Size-matched population,4,30,0.9834710743801652
+15,Size-matched population,4,40,1.0
+15,Size-matched population,4,50,1.0
+16,Personalized,0,5,0.5454545454545455
+16,Personalized,0,10,0.6363636363636364
+16,Personalized,0,20,0.7933884297520661
+16,Personalized,0,30,0.8099173553719008
+16,Personalized,0,40,0.8429752066115702
+16,Personalized,0,50,0.8512396694214877
+16,Full population,0,5,0.4297520661157025
+16,Full population,0,10,0.4380165289256198
+16,Full population,0,20,0.6198347107438016
+16,Full population,0,30,0.8925619834710743
+16,Full population,0,40,0.9834710743801652
+16,Full population,0,50,1.0
+16,Size-matched population,0,5,0.4297520661157025
+16,Size-matched population,0,10,0.5950413223140496
+16,Size-matched population,0,20,0.5867768595041323
+16,Size-matched population,0,30,0.6942148760330579
+16,Size-matched population,0,40,0.9173553719008265
+16,Size-matched population,0,50,0.9669421487603306
+16,Size-matched population,1,5,0.33884297520661155
+16,Size-matched population,1,10,0.32231404958677684
+16,Size-matched population,1,20,0.38842975206611574
+16,Size-matched population,1,30,0.4049586776859504
+16,Size-matched population,1,40,0.8429752066115702
+16,Size-matched population,1,50,0.9669421487603306
+16,Size-matched population,2,5,0.578512396694215
+16,Size-matched population,2,10,0.6363636363636365
+16,Size-matched population,2,20,0.7851239669421488
+16,Size-matched population,2,30,0.9338842975206612
+16,Size-matched population,2,40,1.0
+16,Size-matched population,2,50,1.0
+16,Size-matched population,3,5,0.4297520661157025
+16,Size-matched population,3,10,0.3223140495867769
+16,Size-matched population,3,20,0.2892561983471075
+16,Size-matched population,3,30,0.4380165289256199
+16,Size-matched population,3,40,0.7768595041322314
+16,Size-matched population,3,50,0.9256198347107438
+16,Size-matched population,4,5,0.49586776859504134
+16,Size-matched population,4,10,0.512396694214876
+16,Size-matched population,4,20,0.5371900826446281
+16,Size-matched population,4,30,0.628099173553719
+16,Size-matched population,4,40,0.8099173553719009
+16,Size-matched population,4,50,0.9669421487603305
+17,Personalized,0,5,0.5384615384615385
+17,Personalized,0,10,0.5739644970414202
+17,Personalized,0,20,0.591715976331361
+17,Personalized,0,30,0.7218934911242604
+17,Personalized,0,40,0.7455621301775148
+17,Personalized,0,50,0.7455621301775148
+17,Full population,0,5,0.6272189349112426
+17,Full population,0,10,0.8224852071005917
+17,Full population,0,20,0.9763313609467457
+17,Full population,0,30,1.0
+17,Full population,0,40,1.0
+17,Full population,0,50,1.0
+17,Size-matched population,0,5,0.668639053254438
+17,Size-matched population,0,10,0.7692307692307693
+17,Size-matched population,0,20,0.9644970414201184
+17,Size-matched population,0,30,1.0
+17,Size-matched population,0,40,1.0
+17,Size-matched population,0,50,1.0
+17,Size-matched population,1,5,0.6923076923076923
+17,Size-matched population,1,10,0.7928994082840236
+17,Size-matched population,1,20,0.9349112426035503
+17,Size-matched population,1,30,0.9881656804733728
+17,Size-matched population,1,40,1.0
+17,Size-matched population,1,50,1.0
+17,Size-matched population,2,5,0.757396449704142
+17,Size-matched population,2,10,0.8994082840236687
+17,Size-matched population,2,20,0.9940828402366865
+17,Size-matched population,2,30,1.0
+17,Size-matched population,2,40,1.0
+17,Size-matched population,2,50,1.0
+17,Size-matched population,3,5,0.6745562130177515
+17,Size-matched population,3,10,0.7988165680473374
+17,Size-matched population,3,20,0.9881656804733728
+17,Size-matched population,3,30,1.0
+17,Size-matched population,3,40,1.0
+17,Size-matched population,3,50,1.0
+17,Size-matched population,4,5,0.6390532544378698
+17,Size-matched population,4,10,0.7337278106508875
+17,Size-matched population,4,20,0.9822485207100592
+17,Size-matched population,4,30,1.0
+17,Size-matched population,4,40,1.0
+17,Size-matched population,4,50,1.0
+19,Personalized,0,5,0.7520661157024794
+19,Personalized,0,10,0.8760330578512396
+19,Personalized,0,20,0.9338842975206612
+19,Personalized,0,30,0.9338842975206612
+19,Personalized,0,40,0.9421487603305785
+19,Personalized,0,50,0.9421487603305785
+19,Full population,0,5,0.7107438016528925
+19,Full population,0,10,0.859504132231405
+19,Full population,0,20,0.9586776859504131
+19,Full population,0,30,0.9917355371900827
+19,Full population,0,40,1.0
+19,Full population,0,50,1.0
+19,Size-matched population,0,5,0.6115702479338843
+19,Size-matched population,0,10,0.6859504132231404
+19,Size-matched population,0,20,0.743801652892562
+19,Size-matched population,0,30,0.7603305785123966
+19,Size-matched population,0,40,0.7851239669421487
+19,Size-matched population,0,50,0.8099173553719008
+19,Size-matched population,1,5,0.71900826446281
+19,Size-matched population,1,10,0.7851239669421488
+19,Size-matched population,1,20,0.9173553719008265
+19,Size-matched population,1,30,0.9669421487603305
+19,Size-matched population,1,40,1.0
+19,Size-matched population,1,50,1.0
+19,Size-matched population,2,5,0.6198347107438016
+19,Size-matched population,2,10,0.768595041322314
+19,Size-matched population,2,20,0.8925619834710743
+19,Size-matched population,2,30,0.9669421487603305
+19,Size-matched population,2,40,1.0
+19,Size-matched population,2,50,1.0
+19,Size-matched population,3,5,0.6446280991735537
+19,Size-matched population,3,10,0.7355371900826446
+19,Size-matched population,3,20,0.793388429752066
+19,Size-matched population,3,30,0.8264462809917354
+19,Size-matched population,3,40,0.8760330578512396
+19,Size-matched population,3,50,0.8760330578512396
+19,Size-matched population,4,5,0.7024793388429752
+19,Size-matched population,4,10,0.8264462809917356
+19,Size-matched population,4,20,0.9338842975206612
+19,Size-matched population,4,30,0.9752066115702479
+19,Size-matched population,4,40,1.0
+19,Size-matched population,4,50,1.0
+21,Personalized,0,5,0.6363636363636364
+21,Personalized,0,10,0.7272727272727273
+21,Personalized,0,20,0.859504132231405
+21,Personalized,0,30,0.9090909090909091
+21,Personalized,0,40,0.9090909090909091
+21,Personalized,0,50,0.9173553719008264
+21,Full population,0,5,0.6611570247933884
+21,Full population,0,10,0.8016528925619835
+21,Full population,0,20,0.9586776859504131
+21,Full population,0,30,0.9917355371900827
+21,Full population,0,40,1.0
+21,Full population,0,50,1.0
+21,Size-matched population,0,5,0.7355371900826446
+21,Size-matched population,0,10,0.8264462809917354
+21,Size-matched population,0,20,0.9669421487603306
+21,Size-matched population,0,30,1.0
+21,Size-matched population,0,40,1.0
+21,Size-matched population,0,50,1.0
+21,Size-matched population,1,5,0.6694214876033058
+21,Size-matched population,1,10,0.8181818181818181
+21,Size-matched population,1,20,0.9752066115702479
+21,Size-matched population,1,30,1.0
+21,Size-matched population,1,40,1.0
+21,Size-matched population,1,50,1.0
+21,Size-matched population,2,5,0.7355371900826446
+21,Size-matched population,2,10,0.8099173553719009
+21,Size-matched population,2,20,0.9421487603305785
+21,Size-matched population,2,30,1.0
+21,Size-matched population,2,40,1.0
+21,Size-matched population,2,50,1.0
+21,Size-matched population,3,5,0.7272727272727272
+21,Size-matched population,3,10,0.9008264462809916
+21,Size-matched population,3,20,0.9917355371900827
+21,Size-matched population,3,30,1.0
+21,Size-matched population,3,40,1.0
+21,Size-matched population,3,50,1.0
+21,Size-matched population,4,5,0.628099173553719
+21,Size-matched population,4,10,0.7603305785123967
+21,Size-matched population,4,20,0.9421487603305785
+21,Size-matched population,4,30,0.9586776859504131
+21,Size-matched population,4,40,1.0
+21,Size-matched population,4,50,1.0
+22,Personalized,0,5,0.73
+22,Personalized,0,10,0.8899999999999999
+22,Personalized,0,20,0.97
+22,Personalized,0,30,0.98
+22,Personalized,0,40,0.98
+22,Personalized,0,50,0.98
+22,Full population,0,5,0.7
+22,Full population,0,10,0.83
+22,Full population,0,20,0.9800000000000001
+22,Full population,0,30,1.0
+22,Full population,0,40,1.0
+22,Full population,0,50,1.0
+22,Size-matched population,0,5,0.7000000000000001
+22,Size-matched population,0,10,0.9
+22,Size-matched population,0,20,1.0
+22,Size-matched population,0,30,1.0
+22,Size-matched population,0,40,1.0
+22,Size-matched population,0,50,1.0
+22,Size-matched population,1,5,0.66
+22,Size-matched population,1,10,0.71
+22,Size-matched population,1,20,0.79
+22,Size-matched population,1,30,0.9
+22,Size-matched population,1,40,0.91
+22,Size-matched population,1,50,0.9299999999999999
+22,Size-matched population,2,5,0.64
+22,Size-matched population,2,10,0.76
+22,Size-matched population,2,20,0.8599999999999999
+22,Size-matched population,2,30,0.93
+22,Size-matched population,2,40,0.9500000000000001
+22,Size-matched population,2,50,0.9600000000000001
+22,Size-matched population,3,5,0.6799999999999999
+22,Size-matched population,3,10,0.81
+22,Size-matched population,3,20,0.97
+22,Size-matched population,3,30,1.0
+22,Size-matched population,3,40,1.0
+22,Size-matched population,3,50,1.0
+22,Size-matched population,4,5,0.65
+22,Size-matched population,4,10,0.71
+22,Size-matched population,4,20,0.85
+22,Size-matched population,4,30,0.9299999999999999
+22,Size-matched population,4,40,0.9600000000000001
+22,Size-matched population,4,50,0.9800000000000001
+23,Personalized,0,5,0.5208333333333334
+23,Personalized,0,10,0.5
+23,Personalized,0,20,0.6527777777777778
+23,Personalized,0,30,0.798611111111111
+23,Personalized,0,40,0.9375
+23,Personalized,0,50,0.951388888888889
+23,Full population,0,5,0.5416666666666667
+23,Full population,0,10,0.5902777777777778
+23,Full population,0,20,0.7361111111111112
+23,Full population,0,30,0.8541666666666667
+23,Full population,0,40,0.9305555555555556
+23,Full population,0,50,0.9583333333333334
+23,Size-matched population,0,5,0.5694444444444444
+23,Size-matched population,0,10,0.5625
+23,Size-matched population,0,20,0.7083333333333334
+23,Size-matched population,0,30,0.7916666666666667
+23,Size-matched population,0,40,0.9097222222222222
+23,Size-matched population,0,50,0.9375
+23,Size-matched population,1,5,0.5486111111111112
+23,Size-matched population,1,10,0.5208333333333334
+23,Size-matched population,1,20,0.5347222222222222
+23,Size-matched population,1,30,0.6875
+23,Size-matched population,1,40,0.8958333333333333
+23,Size-matched population,1,50,0.9375
+23,Size-matched population,2,5,0.5902777777777778
+23,Size-matched population,2,10,0.6736111111111112
+23,Size-matched population,2,20,0.7291666666666667
+23,Size-matched population,2,30,0.8194444444444445
+23,Size-matched population,2,40,0.8819444444444445
+23,Size-matched population,2,50,0.9236111111111112
+23,Size-matched population,3,5,0.5347222222222222
+23,Size-matched population,3,10,0.5833333333333334
+23,Size-matched population,3,20,0.5625
+23,Size-matched population,3,30,0.6388888888888888
+23,Size-matched population,3,40,0.7847222222222222
+23,Size-matched population,3,50,0.8680555555555555
+23,Size-matched population,4,5,0.625
+23,Size-matched population,4,10,0.6527777777777777
+23,Size-matched population,4,20,0.7083333333333334
+23,Size-matched population,4,30,0.7430555555555556
+23,Size-matched population,4,40,0.875
+23,Size-matched population,4,50,0.9722222222222222
+25,Personalized,0,5,0.6444444444444445
+25,Personalized,0,10,0.7688888888888888
+25,Personalized,0,20,0.8933333333333333
+25,Personalized,0,30,0.9688888888888889
+25,Personalized,0,40,0.9955555555555555
+25,Personalized,0,50,1.0
+25,Full population,0,5,0.4222222222222222
+25,Full population,0,10,0.36888888888888893
+25,Full population,0,20,0.2977777777777778
+25,Full population,0,30,0.30666666666666664
+25,Full population,0,40,0.37777777777777777
+25,Full population,0,50,0.4444444444444444
+25,Size-matched population,0,5,0.44
+25,Size-matched population,0,10,0.35555555555555557
+25,Size-matched population,0,20,0.24444444444444446
+25,Size-matched population,0,30,0.22222222222222224
+25,Size-matched population,0,40,0.21333333333333332
+25,Size-matched population,0,50,0.2311111111111111
+25,Size-matched population,1,5,0.47555555555555556
+25,Size-matched population,1,10,0.48
+25,Size-matched population,1,20,0.5555555555555556
+25,Size-matched population,1,30,0.6177777777777778
+25,Size-matched population,1,40,0.7377777777777778
+25,Size-matched population,1,50,0.8133333333333334
+25,Size-matched population,2,5,0.4488888888888889
+25,Size-matched population,2,10,0.4533333333333333
+25,Size-matched population,2,20,0.40888888888888886
+25,Size-matched population,2,30,0.43999999999999995
+25,Size-matched population,2,40,0.47555555555555556
+25,Size-matched population,2,50,0.5733333333333334
+25,Size-matched population,3,5,0.41777777777777775
+25,Size-matched population,3,10,0.3688888888888889
+25,Size-matched population,3,20,0.3244444444444444
+25,Size-matched population,3,30,0.30666666666666664
+25,Size-matched population,3,40,0.3288888888888889
+25,Size-matched population,3,50,0.3733333333333333
+25,Size-matched population,4,5,0.4355555555555556
+25,Size-matched population,4,10,0.35555555555555557
+25,Size-matched population,4,20,0.3377777777777778
+25,Size-matched population,4,30,0.2977777777777778
+25,Size-matched population,4,40,0.36444444444444446
+25,Size-matched population,4,50,0.4
+26,Personalized,0,5,0.6180555555555556
+26,Personalized,0,10,0.7152777777777778
+26,Personalized,0,20,0.9166666666666667
+26,Personalized,0,30,0.9652777777777778
+26,Personalized,0,40,0.9791666666666667
+26,Personalized,0,50,0.9930555555555555
+26,Full population,0,5,0.4027777777777778
+26,Full population,0,10,0.5694444444444444
+26,Full population,0,20,0.9513888888888888
+26,Full population,0,30,1.0
+26,Full population,0,40,1.0
+26,Full population,0,50,1.0
+26,Size-matched population,0,5,0.42361111111111116
+26,Size-matched population,0,10,0.5208333333333333
+26,Size-matched population,0,20,0.798611111111111
+26,Size-matched population,0,30,0.9652777777777778
+26,Size-matched population,0,40,1.0
+26,Size-matched population,0,50,1.0
+26,Size-matched population,1,5,0.4375
+26,Size-matched population,1,10,0.5138888888888888
+26,Size-matched population,1,20,0.875
+26,Size-matched population,1,30,0.9861111111111112
+26,Size-matched population,1,40,1.0
+26,Size-matched population,1,50,1.0
+26,Size-matched population,2,5,0.5763888888888888
+26,Size-matched population,2,10,0.6597222222222222
+26,Size-matched population,2,20,0.9236111111111112
+26,Size-matched population,2,30,1.0
+26,Size-matched population,2,40,1.0
+26,Size-matched population,2,50,1.0
+26,Size-matched population,3,5,0.3888888888888889
+26,Size-matched population,3,10,0.5
+26,Size-matched population,3,20,0.826388888888889
+26,Size-matched population,3,30,0.986111111111111
+26,Size-matched population,3,40,1.0
+26,Size-matched population,3,50,1.0
+26,Size-matched population,4,5,0.4722222222222222
+26,Size-matched population,4,10,0.5208333333333334
+26,Size-matched population,4,20,0.7777777777777778
+26,Size-matched population,4,30,0.9930555555555555
+26,Size-matched population,4,40,1.0
+26,Size-matched population,4,50,1.0
+27,Personalized,0,5,0.5902777777777778
+27,Personalized,0,10,0.7777777777777778
+27,Personalized,0,20,0.9791666666666666
+27,Personalized,0,30,0.9930555555555555
+27,Personalized,0,40,1.0
+27,Personalized,0,50,1.0
+27,Full population,0,5,0.2916666666666667
+27,Full population,0,10,0.22916666666666669
+27,Full population,0,20,0.375
+27,Full population,0,30,0.9236111111111112
+27,Full population,0,40,1.0
+27,Full population,0,50,1.0
+27,Size-matched population,0,5,0.5069444444444444
+27,Size-matched population,0,10,0.6458333333333334
+27,Size-matched population,0,20,0.8680555555555556
+27,Size-matched population,0,30,0.986111111111111
+27,Size-matched population,0,40,1.0
+27,Size-matched population,0,50,1.0
+27,Size-matched population,1,5,0.41666666666666674
+27,Size-matched population,1,10,0.375
+27,Size-matched population,1,20,0.4513888888888889
+27,Size-matched population,1,30,0.5694444444444444
+27,Size-matched population,1,40,0.7986111111111112
+27,Size-matched population,1,50,0.9166666666666666
+27,Size-matched population,2,5,0.44444444444444453
+27,Size-matched population,2,10,0.3888888888888889
+27,Size-matched population,2,20,0.41666666666666674
+27,Size-matched population,2,30,0.7083333333333334
+27,Size-matched population,2,40,0.9583333333333334
+27,Size-matched population,2,50,1.0
+27,Size-matched population,3,5,0.2638888888888889
+27,Size-matched population,3,10,0.2013888888888889
+27,Size-matched population,3,20,0.1736111111111111
+27,Size-matched population,3,30,0.40972222222222227
+27,Size-matched population,3,40,0.9097222222222222
+27,Size-matched population,3,50,1.0
+27,Size-matched population,4,5,0.4097222222222222
+27,Size-matched population,4,10,0.3680555555555555
+27,Size-matched population,4,20,0.4444444444444444
+27,Size-matched population,4,30,0.6944444444444445
+27,Size-matched population,4,40,0.9583333333333334
+27,Size-matched population,4,50,1.0
+28,Personalized,0,5,0.628099173553719
+28,Personalized,0,10,0.6694214876033058
+28,Personalized,0,20,0.7520661157024793
+28,Personalized,0,30,0.8016528925619835
+28,Personalized,0,40,0.8016528925619835
+28,Personalized,0,50,0.8099173553719008
+28,Full population,0,5,0.6198347107438017
+28,Full population,0,10,0.7603305785123967
+28,Full population,0,20,0.9504132231404958
+28,Full population,0,30,1.0
+28,Full population,0,40,1.0
+28,Full population,0,50,1.0
+28,Size-matched population,0,5,0.5867768595041323
+28,Size-matched population,0,10,0.6859504132231404
+28,Size-matched population,0,20,0.884297520661157
+28,Size-matched population,0,30,0.9669421487603305
+28,Size-matched population,0,40,1.0
+28,Size-matched population,0,50,1.0
+28,Size-matched population,1,5,0.5289256198347108
+28,Size-matched population,1,10,0.6694214876033058
+28,Size-matched population,1,20,0.8677685950413222
+28,Size-matched population,1,30,0.9834710743801652
+28,Size-matched population,1,40,1.0
+28,Size-matched population,1,50,1.0
+28,Size-matched population,2,5,0.5867768595041323
+28,Size-matched population,2,10,0.6528925619834711
+28,Size-matched population,2,20,0.8677685950413223
+28,Size-matched population,2,30,1.0
+28,Size-matched population,2,40,1.0
+28,Size-matched population,2,50,1.0
+28,Size-matched population,3,5,0.628099173553719
+28,Size-matched population,3,10,0.7603305785123967
+28,Size-matched population,3,20,0.9586776859504131
+28,Size-matched population,3,30,1.0
+28,Size-matched population,3,40,1.0
+28,Size-matched population,3,50,1.0
+28,Size-matched population,4,5,0.6198347107438017
+28,Size-matched population,4,10,0.7933884297520661
+28,Size-matched population,4,20,0.9504132231404958
+28,Size-matched population,4,30,1.0
+28,Size-matched population,4,40,1.0
+28,Size-matched population,4,50,1.0
+29,Personalized,0,5,0.578512396694215
+29,Personalized,0,10,0.6446280991735538
+29,Personalized,0,20,0.7520661157024794
+29,Personalized,0,30,0.8181818181818181
+29,Personalized,0,40,0.8181818181818181
+29,Personalized,0,50,0.8264462809917354
+29,Full population,0,5,0.6115702479338843
+29,Full population,0,10,0.7272727272727273
+29,Full population,0,20,0.8677685950413223
+29,Full population,0,30,0.9421487603305785
+29,Full population,0,40,0.9917355371900827
+29,Full population,0,50,1.0
+29,Size-matched population,0,5,0.5702479338842975
+29,Size-matched population,0,10,0.6446280991735537
+29,Size-matched population,0,20,0.743801652892562
+29,Size-matched population,0,30,0.8429752066115702
+29,Size-matched population,0,40,0.9256198347107438
+29,Size-matched population,0,50,0.9834710743801652
+29,Size-matched population,1,5,0.6363636363636364
+29,Size-matched population,1,10,0.7190082644628099
+29,Size-matched population,1,20,0.8760330578512396
+29,Size-matched population,1,30,0.9586776859504132
+29,Size-matched population,1,40,1.0
+29,Size-matched population,1,50,1.0
+29,Size-matched population,2,5,0.652892561983471
+29,Size-matched population,2,10,0.7272727272727273
+29,Size-matched population,2,20,0.7933884297520661
+29,Size-matched population,2,30,0.9008264462809917
+29,Size-matched population,2,40,0.9669421487603306
+29,Size-matched population,2,50,0.9917355371900827
+29,Size-matched population,3,5,0.6611570247933884
+29,Size-matched population,3,10,0.7933884297520661
+29,Size-matched population,3,20,0.9173553719008264
+29,Size-matched population,3,30,0.9669421487603306
+29,Size-matched population,3,40,0.9917355371900827
+29,Size-matched population,3,50,1.0
+29,Size-matched population,4,5,0.6115702479338843
+29,Size-matched population,4,10,0.6859504132231405
+29,Size-matched population,4,20,0.859504132231405
+29,Size-matched population,4,30,0.9421487603305785
+29,Size-matched population,4,40,0.9834710743801652
+29,Size-matched population,4,50,1.0
+30,Personalized,0,5,0.6686390532544377
+30,Personalized,0,10,0.6982248520710059
+30,Personalized,0,20,0.7396449704142012
+30,Personalized,0,30,0.7396449704142012
+30,Personalized,0,40,0.7514792899408285
+30,Personalized,0,50,0.7514792899408285
+30,Full population,0,5,0.5443786982248521
+30,Full population,0,10,0.6627218934911243
+30,Full population,0,20,0.8579881656804734
+30,Full population,0,30,0.9881656804733727
+30,Full population,0,40,1.0
+30,Full population,0,50,1.0
+30,Size-matched population,0,5,0.5857988165680473
+30,Size-matched population,0,10,0.6863905325443788
+30,Size-matched population,0,20,0.8047337278106509
+30,Size-matched population,0,30,0.9230769230769231
+30,Size-matched population,0,40,0.9763313609467456
+30,Size-matched population,0,50,0.9881656804733727
+30,Size-matched population,1,5,0.49112426035502965
+30,Size-matched population,1,10,0.5680473372781065
+30,Size-matched population,1,20,0.8284023668639053
+30,Size-matched population,1,30,0.923076923076923
+30,Size-matched population,1,40,0.9822485207100592
+30,Size-matched population,1,50,1.0
+30,Size-matched population,2,5,0.6272189349112426
+30,Size-matched population,2,10,0.757396449704142
+30,Size-matched population,2,20,0.8698224852071006
+30,Size-matched population,2,30,0.9763313609467456
+30,Size-matched population,2,40,0.9881656804733727
+30,Size-matched population,2,50,1.0
+30,Size-matched population,3,5,0.5798816568047337
+30,Size-matched population,3,10,0.6627218934911243
+30,Size-matched population,3,20,0.8402366863905325
+30,Size-matched population,3,30,0.9585798816568047
+30,Size-matched population,3,40,0.9763313609467456
+30,Size-matched population,3,50,1.0
+30,Size-matched population,4,5,0.5207100591715976
+30,Size-matched population,4,10,0.6153846153846154
+30,Size-matched population,4,20,0.893491124260355
+30,Size-matched population,4,30,0.9763313609467456
+30,Size-matched population,4,40,1.0
+30,Size-matched population,4,50,1.0
