@@ -1,6 +1,11 @@
 # GaitTrace
 ### Personalized AI-Powered Gait Monitoring
 
+🌐 **[Launch the Interactive GaitTrace Website](https://addiekochanik-main.github.io/gaittrace/)**
+
+Explore real walking-data visualizations, anomaly detection experiments,
+model comparisons, and research findings.
+
 **GaitTrace** is a machine learning research prototype that explores how personalized and population-based AI models can identify unusual patterns in walking sensor data.
 
 Inspired by my mom's experience with multiple sclerosis (MS), I wanted to investigate whether AI could learn how an individual normally walks and recognize changes in their movement.
