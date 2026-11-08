@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#070b18">
+<title>GaitTrace: Can AI notice when a walk changes?</title>
+<meta name="description" content="An interactive research project on teaching AI how a person normally walks.">
+<link rel="stylesheet" href="style.css"></head>
+<body><canvas id="scene" aria-hidden="true"></canvas><div class="glow" aria-hidden="true"></div>
+<header class="nav"><div class="brand">gait<i>trace</i></div><nav class="navlinks"><a href="#lab">Try it</a><a href="#walk">Real walk</a><a href="#research">Results</a><a href="#two">Two walkers</a><a href="#atlas">13 experiments</a><a href="https://github.com/addiekochanik-main/gaittrace" target="_blank" rel="noopener">GitHub ↗</a></nav></header>
+<main>
+<section class="hero" id="lab">
+  <div>
+    <h1>Every walk<br>tells a <span>story.</span></h1>
+    <p class="lead">I grew up watching someone I love live with multiple sclerosis. This project asks: can a computer learn how a person normally walks, and notice when it starts to change?</p>
+    <div class="buttons"><button class="btn primary" id="play" type="button">▶ Play the demo</button><a class="btn secondary" href="#research">Skip to results</a></div>
+    <div class="metrics"><div class="metric"><strong data-n="21">0</strong><small>people studied</small></div><div class="metric"><strong data-n="1226">0</strong><small>walking clips</small></div><div class="metric"><strong data-n="0.987" data-d="3">0</strong><small>best detection score</small></div></div>
+  </div>
+  <div class="glass lab">
+    <span class="chip">Try it</span>
+    <h3>Change the walk. Watch the AI react.</h3>
+    <p class="muted">Each dot behind this panel is a few seconds of someone walking. Red dots are the same walks with stronger movement added. Drag the slider or press Play.</p>
+    <div class="lab-top"><label for="gain1">Stronger movement</label><span class="value" id="pct">20%</span></div>
+    <input id="gain1" type="range" min="5" max="50" step="1" value="20">
+    <p class="caption" id="caption" aria-live="polite"></p>
+    <div class="baritem"><div class="barlabel"><span class="bartext">Learns one person <small>(personalized)</small></span><b id="vP"></b></div><div class="track"><div class="fill" id="bP" style="background:var(--cyan)"></div></div></div>
+    <div class="baritem"><div class="barlabel"><span class="bartext">Learns from everyone else <small>(population)</small></span><b id="vG"></b></div><div class="track"><div class="fill" id="bG" style="background:var(--purple)"></div></div></div>
+    <div class="baritem"><div class="barlabel"><span class="bartext">Blends both <small>(hybrid)</small></span><b id="vH"></b></div><div class="track"><div class="fill" id="bH" style="background:var(--mint)"></div></div></div>
+    <p class="fineprint">Detection score: 1.0 means the AI always spots the change, 0.5 means it’s guessing. Averages across 21 people.</p>
+    <label class="pick" for="who">Highlight one person <select id="who"></select></label>
+    <div id="status" class="status" aria-live="polite">Loading motion data…</div>
+  </div>
+</section>
+
+<div class="content">
+<section class="section" id="how"><h2>The idea in 30 seconds.</h2>
+  <div class="steps">
+    <div class="step"><b>1</b><h3>Record walking</h3><p>Phone sensors recorded how 21 people move, over and over.</p></div>
+    <div class="step"><b>2</b><h3>Teach the AI “normal”</h3><p>One AI learns a single person. One learns from everyone else. A hybrid blends both.</p></div>
+    <div class="step"><b>3</b><h3>Fake a change</h3><p>I made the walking 5–50% stronger, then scored how well each AI noticed.</p></div>
+  </div>
+  <p class="scorehint">Scores run from 0.5 (pure guessing) to 1.0 (never wrong).</p>
+</section>
+
+<section class="section" id="walk">
+  <h2>Watch a real walk.</h2>
+  <p class="intro">This is real data from a phone on someone’s waist: three lines for movement in three directions. The grey line is the original walk. The colored line is the same walk with stronger movement. Red dots mark the biggest bumps. The glowing dot in the 3D cloud is this exact clip.</p>
+  <div class="glass wide">
+    <div class="walkbar"><div id="walkers" role="group" aria-label="Choose a person"></div>
+      <div class="walkgain"><label for="gain2">Stronger movement</label><input id="gain2" type="range" min="5" max="50" step="1" value="20"><b id="pct2">20%</b></div></div>
+    <canvas id="trace" width="1000" height="330" aria-label="Movement trace for a real walking clip"></canvas>
+    <p class="walkstats" id="walkStats" aria-live="off">Loading walking trace…</p>
+    <p class="fineprint">Movement in g, with gravity removed. The bump counter is simple, not a clinical step count.</p>
+  </div>
+</section>
+
+<section class="section" id="research">
+  <h2>Blending both AIs worked best.</h2>
+  <p class="intro">Each line is one AI. Higher is better. The blended (hybrid) AI scored highest at every level I tested. Click or drag on the chart to try different amounts of change.</p>
+  <div class="glass wide"><div class="chart-legend"><span><i class="dot" style="background:var(--cyan)"></i>Learns one person</span><span><i class="dot" style="background:var(--purple)"></i>Learns from everyone else</span><span><i class="dot" style="background:var(--mint)"></i>Blends both</span></div><svg id="chart" viewBox="0 0 850 330" role="img" aria-label="Detection score by amount of change"></svg><p class="takeaway" id="takeaway" aria-live="polite"></p></div>
+</section>
+
+<section class="section" id="two">
+  <h2>The best AI depends on the person.</h2>
+  <p class="intro">I added the same 20% stronger movement to everyone. For some people the AI that knew their own walk caught it best. For others, the AI trained on everyone else did. That’s why blending both helps.</p>
+  <div class="two">
+    <div class="glass card tilt barsec"><h3>Participant 27</h3><p class="muted">The AI that learned their own walk caught the change far better.</p>
+      <div class="baritem"><div class="barlabel"><span>Own-walk AI</span><b>0.979</b></div><div class="track"><div class="fill" data-w="97.9" style="background:var(--cyan)"></div></div></div>
+      <div class="baritem"><div class="barlabel"><span>Everyone-else AI</span><b>0.375</b></div><div class="track"><div class="fill" data-w="37.5" style="background:var(--purple)"></div></div></div></div>
+    <div class="glass card tilt barsec"><h3>Participant 17</h3><p class="muted">The reverse: the AI trained on everyone else did much better.</p>
+      <div class="baritem"><div class="barlabel"><span>Own-walk AI</span><b>0.592</b></div><div class="track"><div class="fill" data-w="59.2" style="background:var(--cyan)"></div></div></div>
+      <div class="baritem"><div class="barlabel"><span>Everyone-else AI</span><b>0.976</b></div><div class="track"><div class="fill" data-w="97.6" style="background:var(--purple)"></div></div></div></div>
+  </div>
+</section>
+
+<section class="section" id="atlas">
+  <h2>13 experiments, one honest story.</h2>
+  <p class="intro">Pick an experiment to see the question I asked and what I found.</p>
+  <p class="legend"><span><i class="dot" style="background:var(--mint)"></i><b class="t-win">Confirmed</b>: held up when tested more than one way</span><span><i class="dot" style="background:var(--purple)"></i><b class="t-sur">Surprising</b>: not what I expected</span><span><i class="dot" style="background:var(--coral)"></i><b class="t-cau">Be careful</b>: a reason not to over-trust the result</span></p>
+  <div class="atlas"><div class="exlist" id="exList" role="tablist" aria-label="Experiments"></div>
+    <div class="glass exdetail tilt" id="exDetail" aria-live="polite"></div></div>
+</section>
+
+<section class="section" id="honesty">
+  <h2>92% accurate. Then I checked.</h2>
+  <p class="intro">An AI could guess who was walking with 92.2% accuracy. But the clips overlap, so it was partly matching near-copies. When I removed the closest neighbors, accuracy fell. The chart shows how much.</p>
+  <div class="glass wide barsec" id="leak"></div>
+</section>
+
+<section class="section"><div class="glass wide"><h3>A research prototype, not a diagnosis.</h3><p class="muted" style="max-width:75ch">This uses public phone-sensor data from healthy volunteers (the UCI HAR dataset), not patients. The changes are simulated, so this does not show that the AI can detect multiple sclerosis, predict falls, or work as a medical test. The 3D view shows how similar walking clips are to each other, not real movement in space. Next step: collecting my own data with an Arduino Nano ESP32 wearable.</p></div></section>
+</div>
+</main>
+<footer class="footer">GaitTrace · SideQuest Sundays · Python, scikit-learn, Three.js · <a style="color:var(--cyan)" href="https://github.com/addiekochanik-main/gaittrace" target="_blank" rel="noopener">View source ↗</a></footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="script.js"></script>
+</body></html>
