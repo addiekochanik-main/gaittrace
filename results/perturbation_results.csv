@@ -1,0 +1,589 @@
+participant,change_type,level,personal_rate,population_rate
+1,Increase acceleration,0,5.263157894736842,31.57894736842105
+1,Increase acceleration,5,5.263157894736842,47.368421052631575
+1,Increase acceleration,10,5.263157894736842,68.42105263157895
+1,Increase acceleration,20,47.368421052631575,94.73684210526315
+1,Increase acceleration,30,94.73684210526315,100.0
+1,Increase acceleration,40,100.0,100.0
+1,Increase acceleration,50,100.0,100.0
+1,Decrease acceleration,0,5.263157894736842,31.57894736842105
+1,Decrease acceleration,5,5.263157894736842,21.052631578947366
+1,Decrease acceleration,10,15.789473684210526,10.526315789473683
+1,Decrease acceleration,20,31.57894736842105,10.526315789473683
+1,Decrease acceleration,30,47.368421052631575,73.68421052631578
+1,Decrease acceleration,40,57.89473684210527,100.0
+1,Decrease acceleration,50,52.63157894736842,100.0
+1,Increase rotation,0,5.263157894736842,31.57894736842105
+1,Increase rotation,5,10.526315789473683,36.84210526315789
+1,Increase rotation,10,26.31578947368421,42.10526315789473
+1,Increase rotation,20,73.68421052631578,68.42105263157895
+1,Increase rotation,30,100.0,94.73684210526315
+1,Increase rotation,40,100.0,100.0
+1,Increase rotation,50,100.0,100.0
+1,Add sensor noise,0,5.263157894736842,31.57894736842105
+1,Add sensor noise,5,5.263157894736842,31.57894736842105
+1,Add sensor noise,10,5.263157894736842,36.84210526315789
+1,Add sensor noise,20,5.263157894736842,36.84210526315789
+1,Add sensor noise,30,10.526315789473683,47.368421052631575
+1,Add sensor noise,40,31.57894736842105,89.47368421052632
+1,Add sensor noise,50,52.63157894736842,89.47368421052632
+3,Increase acceleration,0,0.0,0.0
+3,Increase acceleration,5,0.0,0.0
+3,Increase acceleration,10,0.0,0.0
+3,Increase acceleration,20,0.0,0.0
+3,Increase acceleration,30,0.0,16.666666666666664
+3,Increase acceleration,40,16.666666666666664,91.66666666666666
+3,Increase acceleration,50,33.33333333333333,100.0
+3,Decrease acceleration,0,0.0,0.0
+3,Decrease acceleration,5,0.0,0.0
+3,Decrease acceleration,10,0.0,0.0
+3,Decrease acceleration,20,0.0,0.0
+3,Decrease acceleration,30,0.0,41.66666666666667
+3,Decrease acceleration,40,0.0,100.0
+3,Decrease acceleration,50,0.0,100.0
+3,Increase rotation,0,0.0,0.0
+3,Increase rotation,5,0.0,0.0
+3,Increase rotation,10,0.0,0.0
+3,Increase rotation,20,8.333333333333332,0.0
+3,Increase rotation,30,16.666666666666664,0.0
+3,Increase rotation,40,16.666666666666664,0.0
+3,Increase rotation,50,16.666666666666664,0.0
+3,Add sensor noise,0,0.0,0.0
+3,Add sensor noise,5,0.0,0.0
+3,Add sensor noise,10,0.0,0.0
+3,Add sensor noise,20,0.0,0.0
+3,Add sensor noise,30,0.0,0.0
+3,Add sensor noise,40,0.0,0.0
+3,Add sensor noise,50,16.666666666666664,0.0
+5,Increase acceleration,0,33.33333333333333,33.33333333333333
+5,Increase acceleration,5,41.66666666666667,33.33333333333333
+5,Increase acceleration,10,41.66666666666667,41.66666666666667
+5,Increase acceleration,20,41.66666666666667,83.33333333333334
+5,Increase acceleration,30,41.66666666666667,100.0
+5,Increase acceleration,40,41.66666666666667,100.0
+5,Increase acceleration,50,50.0,100.0
+5,Decrease acceleration,0,33.33333333333333,33.33333333333333
+5,Decrease acceleration,5,16.666666666666664,16.666666666666664
+5,Decrease acceleration,10,8.333333333333332,8.333333333333332
+5,Decrease acceleration,20,0.0,0.0
+5,Decrease acceleration,30,8.333333333333332,58.333333333333336
+5,Decrease acceleration,40,8.333333333333332,100.0
+5,Decrease acceleration,50,16.666666666666664,100.0
+5,Increase rotation,0,33.33333333333333,33.33333333333333
+5,Increase rotation,5,41.66666666666667,33.33333333333333
+5,Increase rotation,10,50.0,33.33333333333333
+5,Increase rotation,20,66.66666666666666,41.66666666666667
+5,Increase rotation,30,91.66666666666666,58.333333333333336
+5,Increase rotation,40,100.0,75.0
+5,Increase rotation,50,100.0,100.0
+5,Add sensor noise,0,33.33333333333333,33.33333333333333
+5,Add sensor noise,5,41.66666666666667,33.33333333333333
+5,Add sensor noise,10,41.66666666666667,33.33333333333333
+5,Add sensor noise,20,41.66666666666667,33.33333333333333
+5,Add sensor noise,30,58.333333333333336,41.66666666666667
+5,Add sensor noise,40,50.0,33.33333333333333
+5,Add sensor noise,50,75.0,66.66666666666666
+6,Increase acceleration,0,25.0,16.666666666666664
+6,Increase acceleration,5,33.33333333333333,16.666666666666664
+6,Increase acceleration,10,66.66666666666666,33.33333333333333
+6,Increase acceleration,20,75.0,100.0
+6,Increase acceleration,30,83.33333333333334,100.0
+6,Increase acceleration,40,91.66666666666666,100.0
+6,Increase acceleration,50,100.0,100.0
+6,Decrease acceleration,0,25.0,16.666666666666664
+6,Decrease acceleration,5,25.0,16.666666666666664
+6,Decrease acceleration,10,8.333333333333332,0.0
+6,Decrease acceleration,20,33.33333333333333,0.0
+6,Decrease acceleration,30,41.66666666666667,25.0
+6,Decrease acceleration,40,41.66666666666667,100.0
+6,Decrease acceleration,50,50.0,100.0
+6,Increase rotation,0,25.0,16.666666666666664
+6,Increase rotation,5,33.33333333333333,16.666666666666664
+6,Increase rotation,10,66.66666666666666,33.33333333333333
+6,Increase rotation,20,75.0,83.33333333333334
+6,Increase rotation,30,83.33333333333334,100.0
+6,Increase rotation,40,91.66666666666666,100.0
+6,Increase rotation,50,91.66666666666666,100.0
+6,Add sensor noise,0,25.0,16.666666666666664
+6,Add sensor noise,5,25.0,16.666666666666664
+6,Add sensor noise,10,41.66666666666667,16.666666666666664
+6,Add sensor noise,20,41.66666666666667,16.666666666666664
+6,Add sensor noise,30,58.333333333333336,41.66666666666667
+6,Add sensor noise,40,83.33333333333334,58.333333333333336
+6,Add sensor noise,50,91.66666666666666,91.66666666666666
+7,Increase acceleration,0,0.0,0.0
+7,Increase acceleration,5,0.0,0.0
+7,Increase acceleration,10,8.333333333333332,8.333333333333332
+7,Increase acceleration,20,33.33333333333333,91.66666666666666
+7,Increase acceleration,30,41.66666666666667,100.0
+7,Increase acceleration,40,50.0,100.0
+7,Increase acceleration,50,58.333333333333336,100.0
+7,Decrease acceleration,0,0.0,0.0
+7,Decrease acceleration,5,0.0,0.0
+7,Decrease acceleration,10,0.0,0.0
+7,Decrease acceleration,20,0.0,0.0
+7,Decrease acceleration,30,0.0,0.0
+7,Decrease acceleration,40,0.0,0.0
+7,Decrease acceleration,50,50.0,8.333333333333332
+7,Increase rotation,0,0.0,0.0
+7,Increase rotation,5,0.0,0.0
+7,Increase rotation,10,16.666666666666664,0.0
+7,Increase rotation,20,33.33333333333333,16.666666666666664
+7,Increase rotation,30,41.66666666666667,41.66666666666667
+7,Increase rotation,40,41.66666666666667,100.0
+7,Increase rotation,50,41.66666666666667,100.0
+7,Add sensor noise,0,0.0,0.0
+7,Add sensor noise,5,0.0,0.0
+7,Add sensor noise,10,0.0,0.0
+7,Add sensor noise,20,8.333333333333332,0.0
+7,Add sensor noise,30,8.333333333333332,0.0
+7,Add sensor noise,40,8.333333333333332,25.0
+7,Add sensor noise,50,41.66666666666667,75.0
+8,Increase acceleration,0,10.0,0.0
+8,Increase acceleration,5,30.0,10.0
+8,Increase acceleration,10,30.0,20.0
+8,Increase acceleration,20,30.0,70.0
+8,Increase acceleration,30,40.0,90.0
+8,Increase acceleration,40,40.0,100.0
+8,Increase acceleration,50,40.0,100.0
+8,Decrease acceleration,0,10.0,0.0
+8,Decrease acceleration,5,10.0,0.0
+8,Decrease acceleration,10,0.0,0.0
+8,Decrease acceleration,20,10.0,0.0
+8,Decrease acceleration,30,20.0,0.0
+8,Decrease acceleration,40,0.0,0.0
+8,Decrease acceleration,50,0.0,0.0
+8,Increase rotation,0,10.0,0.0
+8,Increase rotation,5,20.0,0.0
+8,Increase rotation,10,30.0,0.0
+8,Increase rotation,20,50.0,20.0
+8,Increase rotation,30,40.0,30.0
+8,Increase rotation,40,30.0,60.0
+8,Increase rotation,50,30.0,70.0
+8,Add sensor noise,0,10.0,0.0
+8,Add sensor noise,5,10.0,0.0
+8,Add sensor noise,10,10.0,0.0
+8,Add sensor noise,20,20.0,0.0
+8,Add sensor noise,30,20.0,20.0
+8,Add sensor noise,40,70.0,50.0
+8,Add sensor noise,50,60.0,60.0
+11,Increase acceleration,0,25.0,0.0
+11,Increase acceleration,5,33.33333333333333,0.0
+11,Increase acceleration,10,41.66666666666667,0.0
+11,Increase acceleration,20,50.0,0.0
+11,Increase acceleration,30,91.66666666666666,25.0
+11,Increase acceleration,40,91.66666666666666,75.0
+11,Increase acceleration,50,91.66666666666666,91.66666666666666
+11,Decrease acceleration,0,25.0,0.0
+11,Decrease acceleration,5,0.0,0.0
+11,Decrease acceleration,10,0.0,8.333333333333332
+11,Decrease acceleration,20,0.0,91.66666666666666
+11,Decrease acceleration,30,0.0,100.0
+11,Decrease acceleration,40,8.333333333333332,100.0
+11,Decrease acceleration,50,8.333333333333332,100.0
+11,Increase rotation,0,25.0,0.0
+11,Increase rotation,5,41.66666666666667,0.0
+11,Increase rotation,10,75.0,0.0
+11,Increase rotation,20,100.0,0.0
+11,Increase rotation,30,100.0,0.0
+11,Increase rotation,40,100.0,25.0
+11,Increase rotation,50,100.0,83.33333333333334
+11,Add sensor noise,0,25.0,0.0
+11,Add sensor noise,5,33.33333333333333,0.0
+11,Add sensor noise,10,25.0,0.0
+11,Add sensor noise,20,66.66666666666666,0.0
+11,Add sensor noise,30,75.0,0.0
+11,Add sensor noise,40,100.0,0.0
+11,Add sensor noise,50,100.0,0.0
+14,Increase acceleration,0,0.0,8.333333333333332
+14,Increase acceleration,5,8.333333333333332,8.333333333333332
+14,Increase acceleration,10,8.333333333333332,33.33333333333333
+14,Increase acceleration,20,8.333333333333332,75.0
+14,Increase acceleration,30,8.333333333333332,91.66666666666666
+14,Increase acceleration,40,8.333333333333332,100.0
+14,Increase acceleration,50,8.333333333333332,100.0
+14,Decrease acceleration,0,0.0,8.333333333333332
+14,Decrease acceleration,5,0.0,0.0
+14,Decrease acceleration,10,0.0,0.0
+14,Decrease acceleration,20,0.0,8.333333333333332
+14,Decrease acceleration,30,0.0,25.0
+14,Decrease acceleration,40,0.0,50.0
+14,Decrease acceleration,50,0.0,91.66666666666666
+14,Increase rotation,0,0.0,8.333333333333332
+14,Increase rotation,5,0.0,8.333333333333332
+14,Increase rotation,10,0.0,25.0
+14,Increase rotation,20,8.333333333333332,75.0
+14,Increase rotation,30,41.66666666666667,91.66666666666666
+14,Increase rotation,40,50.0,100.0
+14,Increase rotation,50,50.0,100.0
+14,Add sensor noise,0,0.0,8.333333333333332
+14,Add sensor noise,5,0.0,8.333333333333332
+14,Add sensor noise,10,0.0,0.0
+14,Add sensor noise,20,0.0,0.0
+14,Add sensor noise,30,0.0,8.333333333333332
+14,Add sensor noise,40,0.0,50.0
+14,Add sensor noise,50,8.333333333333332,91.66666666666666
+15,Increase acceleration,0,0.0,0.0
+15,Increase acceleration,5,0.0,0.0
+15,Increase acceleration,10,0.0,0.0
+15,Increase acceleration,20,0.0,9.090909090909092
+15,Increase acceleration,30,0.0,54.54545454545454
+15,Increase acceleration,40,0.0,90.9090909090909
+15,Increase acceleration,50,0.0,90.9090909090909
+15,Decrease acceleration,0,0.0,0.0
+15,Decrease acceleration,5,0.0,0.0
+15,Decrease acceleration,10,0.0,0.0
+15,Decrease acceleration,20,0.0,0.0
+15,Decrease acceleration,30,0.0,0.0
+15,Decrease acceleration,40,0.0,0.0
+15,Decrease acceleration,50,0.0,36.36363636363637
+15,Increase rotation,0,0.0,0.0
+15,Increase rotation,5,0.0,0.0
+15,Increase rotation,10,0.0,0.0
+15,Increase rotation,20,0.0,0.0
+15,Increase rotation,30,9.090909090909092,9.090909090909092
+15,Increase rotation,40,9.090909090909092,9.090909090909092
+15,Increase rotation,50,9.090909090909092,18.181818181818183
+15,Add sensor noise,0,0.0,0.0
+15,Add sensor noise,5,0.0,0.0
+15,Add sensor noise,10,0.0,0.0
+15,Add sensor noise,20,0.0,0.0
+15,Add sensor noise,30,9.090909090909092,0.0
+15,Add sensor noise,40,0.0,0.0
+15,Add sensor noise,50,0.0,9.090909090909092
+16,Increase acceleration,0,18.181818181818183,9.090909090909092
+16,Increase acceleration,5,18.181818181818183,9.090909090909092
+16,Increase acceleration,10,18.181818181818183,9.090909090909092
+16,Increase acceleration,20,36.36363636363637,9.090909090909092
+16,Increase acceleration,30,27.27272727272727,18.181818181818183
+16,Increase acceleration,40,36.36363636363637,72.72727272727273
+16,Increase acceleration,50,54.54545454545454,100.0
+16,Decrease acceleration,0,18.181818181818183,9.090909090909092
+16,Decrease acceleration,5,0.0,9.090909090909092
+16,Decrease acceleration,10,9.090909090909092,9.090909090909092
+16,Decrease acceleration,20,63.63636363636363,9.090909090909092
+16,Decrease acceleration,30,100.0,18.181818181818183
+16,Decrease acceleration,40,100.0,72.72727272727273
+16,Decrease acceleration,50,100.0,90.9090909090909
+16,Increase rotation,0,18.181818181818183,9.090909090909092
+16,Increase rotation,5,0.0,0.0
+16,Increase rotation,10,0.0,0.0
+16,Increase rotation,20,9.090909090909092,0.0
+16,Increase rotation,30,18.181818181818183,0.0
+16,Increase rotation,40,27.27272727272727,0.0
+16,Increase rotation,50,36.36363636363637,9.090909090909092
+16,Add sensor noise,0,18.181818181818183,9.090909090909092
+16,Add sensor noise,5,0.0,9.090909090909092
+16,Add sensor noise,10,9.090909090909092,9.090909090909092
+16,Add sensor noise,20,0.0,0.0
+16,Add sensor noise,30,9.090909090909092,9.090909090909092
+16,Add sensor noise,40,18.181818181818183,9.090909090909092
+16,Add sensor noise,50,18.181818181818183,0.0
+17,Increase acceleration,0,23.076923076923077,7.6923076923076925
+17,Increase acceleration,5,23.076923076923077,7.6923076923076925
+17,Increase acceleration,10,30.76923076923077,38.46153846153847
+17,Increase acceleration,20,30.76923076923077,92.3076923076923
+17,Increase acceleration,30,46.15384615384615,100.0
+17,Increase acceleration,40,46.15384615384615,100.0
+17,Increase acceleration,50,46.15384615384615,100.0
+17,Decrease acceleration,0,23.076923076923077,7.6923076923076925
+17,Decrease acceleration,5,30.76923076923077,7.6923076923076925
+17,Decrease acceleration,10,30.76923076923077,7.6923076923076925
+17,Decrease acceleration,20,23.076923076923077,23.076923076923077
+17,Decrease acceleration,30,53.84615384615385,100.0
+17,Decrease acceleration,40,69.23076923076923,100.0
+17,Decrease acceleration,50,61.53846153846154,100.0
+17,Increase rotation,0,23.076923076923077,7.6923076923076925
+17,Increase rotation,5,23.076923076923077,7.6923076923076925
+17,Increase rotation,10,7.6923076923076925,7.6923076923076925
+17,Increase rotation,20,7.6923076923076925,53.84615384615385
+17,Increase rotation,30,30.76923076923077,84.61538461538461
+17,Increase rotation,40,53.84615384615385,100.0
+17,Increase rotation,50,61.53846153846154,100.0
+17,Add sensor noise,0,23.076923076923077,7.6923076923076925
+17,Add sensor noise,5,15.384615384615385,7.6923076923076925
+17,Add sensor noise,10,15.384615384615385,7.6923076923076925
+17,Add sensor noise,20,15.384615384615385,7.6923076923076925
+17,Add sensor noise,30,30.76923076923077,15.384615384615385
+17,Add sensor noise,40,23.076923076923077,46.15384615384615
+17,Add sensor noise,50,30.76923076923077,76.92307692307693
+19,Increase acceleration,0,0.0,9.090909090909092
+19,Increase acceleration,5,18.181818181818183,27.27272727272727
+19,Increase acceleration,10,54.54545454545454,54.54545454545454
+19,Increase acceleration,20,72.72727272727273,90.9090909090909
+19,Increase acceleration,30,81.81818181818183,100.0
+19,Increase acceleration,40,90.9090909090909,100.0
+19,Increase acceleration,50,90.9090909090909,100.0
+19,Decrease acceleration,0,0.0,9.090909090909092
+19,Decrease acceleration,5,0.0,0.0
+19,Decrease acceleration,10,0.0,0.0
+19,Decrease acceleration,20,0.0,0.0
+19,Decrease acceleration,30,0.0,0.0
+19,Decrease acceleration,40,9.090909090909092,0.0
+19,Decrease acceleration,50,9.090909090909092,0.0
+19,Increase rotation,0,0.0,9.090909090909092
+19,Increase rotation,5,45.45454545454545,27.27272727272727
+19,Increase rotation,10,63.63636363636363,45.45454545454545
+19,Increase rotation,20,81.81818181818183,100.0
+19,Increase rotation,30,90.9090909090909,100.0
+19,Increase rotation,40,90.9090909090909,100.0
+19,Increase rotation,50,90.9090909090909,100.0
+19,Add sensor noise,0,0.0,9.090909090909092
+19,Add sensor noise,5,0.0,9.090909090909092
+19,Add sensor noise,10,9.090909090909092,9.090909090909092
+19,Add sensor noise,20,27.27272727272727,27.27272727272727
+19,Add sensor noise,30,63.63636363636363,72.72727272727273
+19,Add sensor noise,40,72.72727272727273,100.0
+19,Add sensor noise,50,100.0,100.0
+21,Increase acceleration,0,0.0,0.0
+21,Increase acceleration,5,0.0,0.0
+21,Increase acceleration,10,0.0,0.0
+21,Increase acceleration,20,0.0,45.45454545454545
+21,Increase acceleration,30,0.0,72.72727272727273
+21,Increase acceleration,40,0.0,100.0
+21,Increase acceleration,50,0.0,100.0
+21,Decrease acceleration,0,0.0,0.0
+21,Decrease acceleration,5,0.0,0.0
+21,Decrease acceleration,10,0.0,0.0
+21,Decrease acceleration,20,0.0,0.0
+21,Decrease acceleration,30,0.0,0.0
+21,Decrease acceleration,40,0.0,54.54545454545454
+21,Decrease acceleration,50,0.0,100.0
+21,Increase rotation,0,0.0,0.0
+21,Increase rotation,5,0.0,0.0
+21,Increase rotation,10,9.090909090909092,0.0
+21,Increase rotation,20,63.63636363636363,0.0
+21,Increase rotation,30,72.72727272727273,9.090909090909092
+21,Increase rotation,40,72.72727272727273,81.81818181818183
+21,Increase rotation,50,72.72727272727273,100.0
+21,Add sensor noise,0,0.0,0.0
+21,Add sensor noise,5,0.0,0.0
+21,Add sensor noise,10,0.0,0.0
+21,Add sensor noise,20,0.0,0.0
+21,Add sensor noise,30,0.0,0.0
+21,Add sensor noise,40,27.27272727272727,9.090909090909092
+21,Add sensor noise,50,45.45454545454545,27.27272727272727
+22,Increase acceleration,0,0.0,20.0
+22,Increase acceleration,5,10.0,40.0
+22,Increase acceleration,10,10.0,60.0
+22,Increase acceleration,20,50.0,100.0
+22,Increase acceleration,30,70.0,100.0
+22,Increase acceleration,40,70.0,100.0
+22,Increase acceleration,50,70.0,100.0
+22,Decrease acceleration,0,0.0,20.0
+22,Decrease acceleration,5,0.0,10.0
+22,Decrease acceleration,10,0.0,0.0
+22,Decrease acceleration,20,0.0,0.0
+22,Decrease acceleration,30,0.0,0.0
+22,Decrease acceleration,40,0.0,0.0
+22,Decrease acceleration,50,0.0,90.0
+22,Increase rotation,0,0.0,20.0
+22,Increase rotation,5,10.0,30.0
+22,Increase rotation,10,20.0,40.0
+22,Increase rotation,20,20.0,80.0
+22,Increase rotation,30,20.0,100.0
+22,Increase rotation,40,20.0,100.0
+22,Increase rotation,50,20.0,100.0
+22,Add sensor noise,0,0.0,20.0
+22,Add sensor noise,5,0.0,20.0
+22,Add sensor noise,10,0.0,20.0
+22,Add sensor noise,20,20.0,20.0
+22,Add sensor noise,30,20.0,50.0
+22,Add sensor noise,40,70.0,90.0
+22,Add sensor noise,50,100.0,100.0
+23,Increase acceleration,0,0.0,0.0
+23,Increase acceleration,5,0.0,0.0
+23,Increase acceleration,10,0.0,0.0
+23,Increase acceleration,20,0.0,8.333333333333332
+23,Increase acceleration,30,0.0,25.0
+23,Increase acceleration,40,0.0,41.66666666666667
+23,Increase acceleration,50,0.0,41.66666666666667
+23,Decrease acceleration,0,0.0,0.0
+23,Decrease acceleration,5,0.0,0.0
+23,Decrease acceleration,10,0.0,0.0
+23,Decrease acceleration,20,0.0,0.0
+23,Decrease acceleration,30,0.0,0.0
+23,Decrease acceleration,40,0.0,0.0
+23,Decrease acceleration,50,0.0,0.0
+23,Increase rotation,0,0.0,0.0
+23,Increase rotation,5,0.0,0.0
+23,Increase rotation,10,8.333333333333332,0.0
+23,Increase rotation,20,16.666666666666664,8.333333333333332
+23,Increase rotation,30,16.666666666666664,16.666666666666664
+23,Increase rotation,40,16.666666666666664,25.0
+23,Increase rotation,50,33.33333333333333,41.66666666666667
+23,Add sensor noise,0,0.0,0.0
+23,Add sensor noise,5,0.0,0.0
+23,Add sensor noise,10,0.0,0.0
+23,Add sensor noise,20,0.0,0.0
+23,Add sensor noise,30,0.0,0.0
+23,Add sensor noise,40,8.333333333333332,8.333333333333332
+23,Add sensor noise,50,8.333333333333332,8.333333333333332
+25,Increase acceleration,0,0.0,13.333333333333334
+25,Increase acceleration,5,0.0,6.666666666666667
+25,Increase acceleration,10,0.0,0.0
+25,Increase acceleration,20,0.0,0.0
+25,Increase acceleration,30,33.33333333333333,0.0
+25,Increase acceleration,40,46.666666666666664,0.0
+25,Increase acceleration,50,53.333333333333336,0.0
+25,Decrease acceleration,0,0.0,13.333333333333334
+25,Decrease acceleration,5,0.0,20.0
+25,Decrease acceleration,10,0.0,20.0
+25,Decrease acceleration,20,6.666666666666667,26.666666666666668
+25,Decrease acceleration,30,6.666666666666667,53.333333333333336
+25,Decrease acceleration,40,6.666666666666667,73.33333333333333
+25,Decrease acceleration,50,6.666666666666667,93.33333333333333
+25,Increase rotation,0,0.0,13.333333333333334
+25,Increase rotation,5,0.0,13.333333333333334
+25,Increase rotation,10,0.0,13.333333333333334
+25,Increase rotation,20,0.0,13.333333333333334
+25,Increase rotation,30,26.666666666666668,13.333333333333334
+25,Increase rotation,40,40.0,13.333333333333334
+25,Increase rotation,50,46.666666666666664,13.333333333333334
+25,Add sensor noise,0,0.0,13.333333333333334
+25,Add sensor noise,5,0.0,6.666666666666667
+25,Add sensor noise,10,0.0,13.333333333333334
+25,Add sensor noise,20,0.0,0.0
+25,Add sensor noise,30,6.666666666666667,6.666666666666667
+25,Add sensor noise,40,6.666666666666667,0.0
+25,Add sensor noise,50,40.0,0.0
+26,Increase acceleration,0,0.0,0.0
+26,Increase acceleration,5,0.0,0.0
+26,Increase acceleration,10,0.0,0.0
+26,Increase acceleration,20,0.0,8.333333333333332
+26,Increase acceleration,30,50.0,91.66666666666666
+26,Increase acceleration,40,83.33333333333334,100.0
+26,Increase acceleration,50,83.33333333333334,100.0
+26,Decrease acceleration,0,0.0,0.0
+26,Decrease acceleration,5,0.0,0.0
+26,Decrease acceleration,10,0.0,0.0
+26,Decrease acceleration,20,25.0,75.0
+26,Decrease acceleration,30,25.0,100.0
+26,Decrease acceleration,40,33.33333333333333,100.0
+26,Decrease acceleration,50,33.33333333333333,100.0
+26,Increase rotation,0,0.0,0.0
+26,Increase rotation,5,0.0,0.0
+26,Increase rotation,10,0.0,0.0
+26,Increase rotation,20,41.66666666666667,16.666666666666664
+26,Increase rotation,30,58.333333333333336,83.33333333333334
+26,Increase rotation,40,83.33333333333334,100.0
+26,Increase rotation,50,83.33333333333334,100.0
+26,Add sensor noise,0,0.0,0.0
+26,Add sensor noise,5,0.0,0.0
+26,Add sensor noise,10,0.0,0.0
+26,Add sensor noise,20,0.0,0.0
+26,Add sensor noise,30,0.0,0.0
+26,Add sensor noise,40,8.333333333333332,0.0
+26,Add sensor noise,50,58.333333333333336,0.0
+27,Increase acceleration,0,0.0,0.0
+27,Increase acceleration,5,0.0,0.0
+27,Increase acceleration,10,0.0,0.0
+27,Increase acceleration,20,0.0,0.0
+27,Increase acceleration,30,0.0,0.0
+27,Increase acceleration,40,0.0,0.0
+27,Increase acceleration,50,0.0,33.33333333333333
+27,Decrease acceleration,0,0.0,0.0
+27,Decrease acceleration,5,0.0,0.0
+27,Decrease acceleration,10,8.333333333333332,0.0
+27,Decrease acceleration,20,83.33333333333334,0.0
+27,Decrease acceleration,30,91.66666666666666,41.66666666666667
+27,Decrease acceleration,40,91.66666666666666,100.0
+27,Decrease acceleration,50,91.66666666666666,100.0
+27,Increase rotation,0,0.0,0.0
+27,Increase rotation,5,0.0,0.0
+27,Increase rotation,10,0.0,0.0
+27,Increase rotation,20,0.0,0.0
+27,Increase rotation,30,0.0,0.0
+27,Increase rotation,40,0.0,25.0
+27,Increase rotation,50,8.333333333333332,75.0
+27,Add sensor noise,0,0.0,0.0
+27,Add sensor noise,5,0.0,0.0
+27,Add sensor noise,10,0.0,0.0
+27,Add sensor noise,20,0.0,0.0
+27,Add sensor noise,30,0.0,0.0
+27,Add sensor noise,40,0.0,0.0
+27,Add sensor noise,50,0.0,0.0
+28,Increase acceleration,0,0.0,0.0
+28,Increase acceleration,5,0.0,0.0
+28,Increase acceleration,10,0.0,0.0
+28,Increase acceleration,20,0.0,0.0
+28,Increase acceleration,30,0.0,9.090909090909092
+28,Increase acceleration,40,0.0,18.181818181818183
+28,Increase acceleration,50,0.0,54.54545454545454
+28,Decrease acceleration,0,0.0,0.0
+28,Decrease acceleration,5,0.0,0.0
+28,Decrease acceleration,10,0.0,0.0
+28,Decrease acceleration,20,0.0,0.0
+28,Decrease acceleration,30,0.0,0.0
+28,Decrease acceleration,40,0.0,9.090909090909092
+28,Decrease acceleration,50,0.0,63.63636363636363
+28,Increase rotation,0,0.0,0.0
+28,Increase rotation,5,0.0,0.0
+28,Increase rotation,10,0.0,0.0
+28,Increase rotation,20,0.0,0.0
+28,Increase rotation,30,0.0,0.0
+28,Increase rotation,40,0.0,9.090909090909092
+28,Increase rotation,50,0.0,27.27272727272727
+28,Add sensor noise,0,0.0,0.0
+28,Add sensor noise,5,0.0,0.0
+28,Add sensor noise,10,0.0,0.0
+28,Add sensor noise,20,0.0,0.0
+28,Add sensor noise,30,0.0,0.0
+28,Add sensor noise,40,0.0,0.0
+28,Add sensor noise,50,0.0,9.090909090909092
+29,Increase acceleration,0,27.27272727272727,27.27272727272727
+29,Increase acceleration,5,36.36363636363637,27.27272727272727
+29,Increase acceleration,10,54.54545454545454,63.63636363636363
+29,Increase acceleration,20,81.81818181818183,81.81818181818183
+29,Increase acceleration,30,81.81818181818183,90.9090909090909
+29,Increase acceleration,40,90.9090909090909,100.0
+29,Increase acceleration,50,90.9090909090909,100.0
+29,Decrease acceleration,0,27.27272727272727,27.27272727272727
+29,Decrease acceleration,5,27.27272727272727,9.090909090909092
+29,Decrease acceleration,10,27.27272727272727,9.090909090909092
+29,Decrease acceleration,20,9.090909090909092,0.0
+29,Decrease acceleration,30,27.27272727272727,9.090909090909092
+29,Decrease acceleration,40,27.27272727272727,72.72727272727273
+29,Decrease acceleration,50,27.27272727272727,100.0
+29,Increase rotation,0,27.27272727272727,27.27272727272727
+29,Increase rotation,5,27.27272727272727,0.0
+29,Increase rotation,10,27.27272727272727,0.0
+29,Increase rotation,20,45.45454545454545,0.0
+29,Increase rotation,30,54.54545454545454,18.181818181818183
+29,Increase rotation,40,72.72727272727273,45.45454545454545
+29,Increase rotation,50,72.72727272727273,72.72727272727273
+29,Add sensor noise,0,27.27272727272727,27.27272727272727
+29,Add sensor noise,5,27.27272727272727,27.27272727272727
+29,Add sensor noise,10,27.27272727272727,18.181818181818183
+29,Add sensor noise,20,36.36363636363637,18.181818181818183
+29,Add sensor noise,30,18.181818181818183,27.27272727272727
+29,Add sensor noise,40,36.36363636363637,45.45454545454545
+29,Add sensor noise,50,63.63636363636363,72.72727272727273
+30,Increase acceleration,0,15.384615384615385,38.46153846153847
+30,Increase acceleration,5,30.76923076923077,46.15384615384615
+30,Increase acceleration,10,61.53846153846154,69.23076923076923
+30,Increase acceleration,20,61.53846153846154,92.3076923076923
+30,Increase acceleration,30,61.53846153846154,92.3076923076923
+30,Increase acceleration,40,61.53846153846154,100.0
+30,Increase acceleration,50,61.53846153846154,100.0
+30,Decrease acceleration,0,15.384615384615385,38.46153846153847
+30,Decrease acceleration,5,15.384615384615385,46.15384615384615
+30,Decrease acceleration,10,0.0,69.23076923076923
+30,Decrease acceleration,20,0.0,92.3076923076923
+30,Decrease acceleration,30,0.0,100.0
+30,Decrease acceleration,40,0.0,100.0
+30,Decrease acceleration,50,0.0,100.0
+30,Increase rotation,0,15.384615384615385,38.46153846153847
+30,Increase rotation,5,30.76923076923077,84.61538461538461
+30,Increase rotation,10,38.46153846153847,92.3076923076923
+30,Increase rotation,20,38.46153846153847,100.0
+30,Increase rotation,30,38.46153846153847,100.0
+30,Increase rotation,40,38.46153846153847,100.0
+30,Increase rotation,50,38.46153846153847,100.0
+30,Add sensor noise,0,15.384615384615385,38.46153846153847
+30,Add sensor noise,5,15.384615384615385,38.46153846153847
+30,Add sensor noise,10,23.076923076923077,46.15384615384615
+30,Add sensor noise,20,38.46153846153847,69.23076923076923
+30,Add sensor noise,30,61.53846153846154,84.61538461538461
+30,Add sensor noise,40,46.15384615384615,100.0
+30,Add sensor noise,50,76.92307692307693,100.0
